@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-09T20:54:18.430Z,33.795,-117.073,7.57,1.14,ml,8,85,0.3462,0.27,ci,ci39989599,2022-04-09T20:57:57.362Z,"6km N of Green Acres, CA",earthquake,1.07,31.61,0.296,13,automatic,ci,ci
 2022-04-09T20:40:46.586Z,63.1676,-149.6992,89.3,1.8,ml,,,,0.51,ak,ak0224k2cp8b,2022-04-09T20:43:23.234Z,"45 km SW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-04-09T20:37:07.490Z,33.3333333,-116.2258333,8.59,0.88,ml,23,61,0.07586,0.26,ci,ci39989591,2022-04-09T20:40:38.586Z,"16km ENE of Borrego Springs, CA",earthquake,0.56,1.12,0.08,18,automatic,ci,ci
 2022-04-09T20:14:06.240Z,34.0368333,-116.66,19.01,1.13,ml,15,132,0.1215,0.4,ci,ci39989583,2022-04-09T20:17:50.074Z,"7km W of Morongo Valley, CA",earthquake,1.59,2.72,0.194,19,automatic,ci,ci
@@ -191,5 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-08T21:08:02.140Z,35.6251667,-117.4678333,6.95,1.02,ml,19,110,0.03885,0.1,ci,ci39988935,2022-04-08T21:28:13.526Z,"17km SSW of Searles Valley, CA",earthquake,0.2,0.4,0.134,10,reviewed,ci,ci
 2022-04-08T21:03:21.610Z,51.87,179.643333333333,13.63,1.8,ml,6,267,,0.13,av,av91533481,2022-04-09T03:13:03.630Z,"256 km W of Adak, Alaska",earthquake,1.18,0.9,0.383870230551394,6,reviewed,av,av
 2022-04-08T21:01:14.026Z,31.68058579,-104.4199904,6.131567383,3.1,ml,21,52,0.0699020238,0.3,tx,tx2022gwvk,2022-04-08T21:14:50.040Z,"55 km S of Whites City, New Mexico",earthquake,0.9980426517,1.065926253,0.1,13,reviewed,tx,tx
-2022-04-08T20:57:35.510Z,47.1508333,-113.0926667,13.78,0.57,ml,8,182,0.216,0.14,mb,mb80542659,2022-04-09T14:50:54.520Z,"14 km NNE of Ovando, Montana",earthquake,0.73,1.69,0.106,2,reviewed,mb,mb
-2022-04-08T20:55:31.056Z,-1.8447,67.9701,10,4.7,mb,,44,10.017,0.86,us,us7000h0th,2022-04-08T21:19:27.040Z,"Carlsberg Ridge",earthquake,9.7,1.9,0.07,69,reviewed,us,us
