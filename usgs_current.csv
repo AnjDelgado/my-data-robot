@@ -223,5 +223,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-11T20:13:27.820Z,38.7953333,-122.8136667,3.52,0.15,md,16,73,0.01681,0.03,nc,nc73717116,2022-04-12T03:17:22.490Z,"5km WNW of The Geysers, CA",earthquake,0.29,0.53,0.419,2,reviewed,nc,nc
 2022-04-11T20:00:12.030Z,44.757,-110.973,9.74,0.4,md,11,127,0.02374,0.17,uu,uu60490357,2022-04-11T20:47:02.490Z,"14 km NE of West Yellowstone, Montana",earthquake,0.48,0.93,0.259,7,reviewed,uu,uu
 2022-04-11T19:55:53.930Z,60.0208333333333,-153.075666666667,0.47,-0.84,ml,4,147,,0.04,av,av91536081,2022-04-12T04:33:27.400Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.26,1.15,0.165262792262824,4,reviewed,av,av
-2022-04-11T19:50:04.530Z,17.9906666666667,-66.9821666666667,11.9,1.68,md,4,153,,0.03,pr,pr71344258,2022-04-11T20:00:08.390Z,"7 km W of Fuig, Puerto Rico",earthquake,0.89,0.93,0.205069422592285,4,reviewed,pr,pr
-2022-04-11T19:49:16.000Z,38.8011667,-122.757,2.52,0.23,md,22,123,0.002187,0.03,nc,nc73717096,2022-04-12T06:11:27.490Z,"3km N of The Geysers, CA",earthquake,0.25,0.29,0.168,3,reviewed,nc,nc
