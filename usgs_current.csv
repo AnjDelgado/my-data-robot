@@ -213,7 +213,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-15T23:40:59.702Z,64.9005,-149.3525,15.4,1.2,ml,,,,1.01,ak,ak0224u1d40d,2022-04-15T23:49:42.412Z,"27 km S of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-15T23:30:27.040Z,46.9043333,-112.522,11.85,1.45,ml,29,70,0.063,0.24,mb,mb80543144,2022-04-16T14:36:32.330Z,"13 km ESE of Lincoln, Montana",earthquake,0.43,0.47,0.347,7,reviewed,mb,mb
 2022-04-15T23:30:22.180Z,17.925,-66.9545,9.65,2.09,md,8,231,,0.07,pr,pr71344728,2022-04-15T23:45:27.930Z,"7 km SW of Guánica, Puerto Rico",earthquake,0.54,0.69,0.0385369309031054,3,reviewed,pr,pr
-2022-04-15T23:27:18.160Z,19.1928329467773,-155.490997314453,34.5499992370605,2.29,ml,45,76,,0.140000001,hv,hv72985852,2022-04-16T06:22:18.398Z,"1 km SW of Pāhala, Hawaii",earthquake,0.61,0.800000012,4.06,15,automatic,hv,hv
+2022-04-15T23:27:18.160Z,19.1928329467773,-155.490997314453,34.5499992370605,2.29,ml,45,76,,0.140000001,hv,hv72985852,2022-04-16T20:52:32.969Z,"1 km SW of Pāhala, Hawaii",earthquake,0.61,0.800000012,4.06,15,automatic,hv,hv
 2022-04-15T23:06:29.600Z,33.9546667,-117.9078333,5.72,1.3,ml,37,63,0.01613,0.23,ci,ci40237816,2022-04-15T23:17:12.000Z,"2km S of Rowland Heights, CA",earthquake,0.32,0.54,0.206,26,automatic,ci,ci
 2022-04-15T23:04:11.855Z,61.8373,-150.704,28.5,1.8,ml,,,,0.39,ak,ak0224u15ajb,2022-04-15T23:22:26.833Z,"34 km NNW of Susitna, Alaska",earthquake,,2,,,automatic,ak,ak
 2022-04-15T22:53:42.611Z,12.6945,-88.1591,68.66,5,mww,,96,1.11,1.24,us,us7000h2l4,2022-04-16T20:38:09.157Z,"56 km SSW of Intipucá, El Salvador",earthquake,4.8,4,0.058,29,reviewed,us,us
