@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-17T17:21:33.362Z,59.7994,-152.3648,97.6,1.1,ml,,,,1,ak,ak0224x8r2r7,2022-04-17T17:28:19.750Z,"30 km W of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-04-17T17:17:00.170Z,36.3930016,-119.928833,21.43,2.4,md,18,141,0.1626,0.14,nc,nc73718955,2022-04-17T17:25:27.818Z,"6km S of Lanare, CA",earthquake,1.54,0.55,0.41,9,automatic,nc,nc
+2022-04-17T17:34:53.350Z,38.8185005,-122.7886658,1.32,0.92,md,20,42,0.00814,0.04,nc,nc73718965,2022-04-17T17:40:29.673Z,"5km NNW of The Geysers, CA",earthquake,0.21,0.41,0.05,4,automatic,nc,nc
+2022-04-17T17:31:04.610Z,59.9635,-151.843,50.1,1.4,ml,,,,0.48,ak,ak0224x8t5os,2022-04-17T17:35:19.517Z,"6 km WNW of Happy Valley, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2022-04-17T17:21:33.362Z,59.7994,-152.3648,97.6,1.1,ml,,,,1,ak,ak0224x8r2r7,2022-04-17T17:35:18.769Z,"30 km W of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-04-17T17:17:00.170Z,36.3930016,-119.928833,21.43,2.4,md,18,141,0.1626,0.14,nc,nc73718955,2022-04-17T17:40:26.907Z,"6km S of Lanare, CA",earthquake,1.54,0.55,0.41,9,automatic,nc,nc
 2022-04-17T16:57:30.930Z,34.0598333,-117.2528333,13.85,0.98,ml,39,70,0.1214,0.3,ci,ci40239072,2022-04-17T17:01:02.457Z,"2km NNE of Loma Linda, CA",earthquake,0.44,1.14,0.112,30,automatic,ci,ci
 2022-04-17T16:48:12.835Z,63.3126,-151.0834,0,1.4,ml,,,,0.6,ak,ak0224x8bdvn,2022-04-17T16:58:41.913Z,"40 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-17T16:31:07.832Z,61.2415,-149.7208,35.9,1.5,ml,,,,0.71,ak,ak0224x87qbg,2022-04-17T16:46:14.332Z,"5 km WSW of Elmendorf Air Force Base, Alaska",earthquake,,0.5,,,automatic,ak,ak
