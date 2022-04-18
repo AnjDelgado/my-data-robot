@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-18T21:48:53.030Z,33.5118333,-116.7451667,2.74,0.94,ml,34,46,0.04611,0.17,ci,ci40240448,2022-04-18T21:52:21.958Z,"8km SW of Anza, CA",earthquake,0.2,0.27,0.167,27,automatic,ci,ci
 2022-04-18T21:44:41.730Z,33.5093333,-116.7465,3.18,1.16,ml,37,29,0.04509,0.2,ci,ci40240432,2022-04-18T21:48:17.870Z,"8km SW of Anza, CA",earthquake,0.21,0.64,0.146,29,automatic,ci,ci
-2022-04-18T21:42:58.680Z,38.8305016,-122.810997,1.9,0.75,md,13,76,0.007133,0.01,nc,nc73719805,2022-04-18T21:49:46.620Z,"8km NW of The Geysers, CA",earthquake,0.25,0.69,0.1,2,automatic,nc,nc
+2022-04-18T21:43:46.560Z,36.581665,-121.1256638,9.35,1.31,md,7,152,0.0491,0.11,nc,nc73719820,2022-04-18T21:55:18.190Z,"6km NNE of Pinnacles, CA",earthquake,0.76,1.47,0.19,7,automatic,nc,nc
+2022-04-18T21:42:58.680Z,38.8305016,-122.810997,1.9,0.75,md,13,76,0.007133,0.01,nc,nc73719805,2022-04-18T21:50:28.948Z,"8km NW of The Geysers, CA",earthquake,0.25,0.69,0.1,2,automatic,nc,nc
 2022-04-18T21:42:46.440Z,38.8306656,-122.8111649,2.04,0.85,md,15,46,0.00731,0.02,nc,nc73719800,2022-04-18T21:49:24.924Z,"8km NW of The Geysers, CA",earthquake,0.27,0.78,,1,automatic,nc,nc
 2022-04-18T21:20:43.970Z,33.7276667,-116.0736667,2.09,1.13,ml,37,48,0.07687,0.26,ci,ci40240408,2022-04-18T21:24:19.011Z,"11km ENE of Coachella, CA",earthquake,0.38,0.63,0.136,27,automatic,ci,ci
 2022-04-18T21:16:44.290Z,33.3228333,-116.8471667,14.62,0.94,ml,26,56,0.03332,0.21,ci,ci40240400,2022-04-18T21:20:22.760Z,"4km SSE of Palomar Observatory, CA",earthquake,0.34,0.71,0.119,21,automatic,ci,ci
