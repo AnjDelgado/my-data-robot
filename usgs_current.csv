@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-18T15:46:21.650Z,38.824501,-122.7639999,1.84,0.85,md,7,198,0.007541,0.03,nc,nc73719675,2022-04-18T15:51:56.385Z,"4km W of Cobb, CA",earthquake,0.62,2.03,,1,automatic,nc,nc
+2022-04-18T15:50:06.780Z,38.8359985,-122.8143311,1.43,0.36,md,8,97,0.01302,0.01,nc,nc73719680,2022-04-18T15:54:03.689Z,"8km W of Cobb, CA",earthquake,0.42,0.84,,1,automatic,nc,nc
+2022-04-18T15:46:21.650Z,38.824501,-122.7639999,1.84,0.85,md,7,198,0.007541,0.03,nc,nc73719675,2022-04-18T15:52:59.522Z,"4km W of Cobb, CA",earthquake,0.62,2.03,,1,automatic,nc,nc
 2022-04-18T15:43:21.360Z,33.2418333,-117.4281667,16.95,1.04,ml,21,173,0.06042,0.2,ci,ci40239880,2022-04-18T15:46:59.044Z,"5km WNW of Camp Pendleton South, CA",earthquake,0.56,0.83,0.127,15,automatic,ci,ci
 2022-04-18T15:33:25.380Z,33.24,-117.4261667,14.28,1.74,ml,53,127,0.05794,0.22,ci,ci40239864,2022-04-18T15:37:09.510Z,"4km WNW of Camp Pendleton South, CA",earthquake,0.38,0.58,0.224,27,automatic,ci,ci
 2022-04-18T15:32:45.620Z,38.7886658,-122.7474976,1.8,0.54,md,14,85,0.01001,0.02,nc,nc73719670,2022-04-18T15:50:02.866Z,"2km NNE of The Geysers, CA",earthquake,0.27,0.6,0.38,4,automatic,nc,nc
