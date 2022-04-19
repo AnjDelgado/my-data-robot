@@ -253,5 +253,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-18T22:22:12.970Z,32.4235,-115.26,2.67,2.94,ml,35,99,0.03827,0.31,ci,ci40240504,2022-04-18T23:15:57.472Z,"10km NW of Delta, B.C., MX",earthquake,0.34,0.43,0.144,94,reviewed,ci,ci
 2022-04-18T22:18:17.990Z,38.8284988,-122.8013306,1.88,1.17,md,12,74,0.008521,0.01,nc,nc73719825,2022-04-18T23:10:26.660Z,"7km W of Cobb, CA",earthquake,0.31,0.92,,1,automatic,nc,nc
 2022-04-18T22:04:53.130Z,53.834,-166.892666666667,5.45,0.14,ml,5,230,,0.05,av,av91055253,2022-04-19T04:59:32.070Z,"23 km WSW of Dutch Harbor, Alaska",earthquake,0.48,0.84,0.234468459852145,5,reviewed,av,av
-2022-04-18T21:58:12.090Z,35.9401667,-117.6791667,5.22,-0.33,ml,3,280,0.0246,0.03,ci,ci40240456,2022-04-19T14:46:52.148Z,"20km E of Little Lake, CA",earthquake,0.51,0.62,0.157,2,reviewed,ci,ci
-2022-04-18T21:56:12.858Z,-8.8758,157.8709,10,5,mb,,32,2.125,0.68,us,us7000h362,2022-04-18T22:27:39.040Z,"141 km SE of Gizo, Solomon Islands",earthquake,8.7,1.8,0.06,89,reviewed,us,us
