@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-19T19:46:07.010Z,38.8251648,-122.805336,2.81,0.84,md,7,103,0.004101,0.02,nc,nc73720350,2022-04-19T19:49:52.310Z,"7km NW of The Geysers, CA",earthquake,0.49,1.66,,1,automatic,nc,nc
 2022-04-19T19:33:34.660Z,33.5911667,-116.808,7.42,0.52,ml,13,160,0.03673,0.18,ci,ci40241384,2022-04-19T19:37:08.004Z,"13km WNW of Anza, CA",earthquake,0.99,0.83,0.195,12,automatic,ci,ci
 2022-04-19T19:20:50.110Z,34.0108333,-116.9873333,15.71,1.67,ml,43,89,0.05456,0.2,ci,ci40241368,2022-04-19T19:24:29.029Z,"6km ESE of Yucaipa, CA",earthquake,0.26,0.69,0.164,28,automatic,ci,ci
 2022-04-19T18:36:38.790Z,32.9085,-115.5118333,4.82,1.69,ml,11,93,0.04171,0.23,ci,ci40241336,2022-04-19T18:40:24.760Z,"8km SSE of Brawley, CA",earthquake,0.61,0.99,0.155,26,automatic,ci,ci
@@ -8,6 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-19T18:08:11.760Z,38.796833,-122.9838333,0.78,1.2,md,11,107,0.03669,0.05,nc,nc73720325,2022-04-19T19:00:27.645Z,"3km ESE of Cloverdale, CA",earthquake,0.33,0.89,0.22,4,automatic,nc,nc
 2022-04-19T18:04:53.143Z,57.3817,-154.2253,38.3,2.1,ml,,,,0.71,ak,ak02250kbloi,2022-04-19T18:16:36.450Z,"23 km SW of Larsen Bay, Alaska",earthquake,,4.4,,,automatic,ak,ak
 2022-04-19T18:01:56.540Z,36.7691667,-113.0138333,16.92,1.59,ml,8,178,0.2909,0.08,uu,uu60492557,2022-04-19T18:54:46.340Z,"20 km S of Centennial Park, Arizona",earthquake,1.1,0.64,0.085,2,reviewed,uu,uu
+2022-04-19T18:01:06.160Z,46.3,-111.614,-2,1.31,ml,8,137,0.319,0.21,mb,mb80543584,2022-04-19T19:46:22.120Z,"7 km WSW of Townsend, Montana",quarry blast,1.35,31.61,0.263,3,reviewed,mb,mb
 2022-04-19T17:54:59.750Z,38.786499,-122.7350006,2.14,0.21,md,9,86,0.003525,0.01,nc,nc73720315,2022-04-19T18:25:17.431Z,"2km ENE of The Geysers, CA",earthquake,0.33,0.89,0.17,2,automatic,nc,nc
 2022-04-19T17:52:00.695Z,6.4706,127.1187,71.78,5,mb,,65,1.64,0.79,us,us7000h3dv,2022-04-19T18:18:11.040Z,"97 km SE of Lukatan, Philippines",earthquake,8.6,2.4,0.049,132,reviewed,us,us
 2022-04-19T17:47:57.770Z,19.1573333740234,-155.481994628906,35.1599998474121,2.18000007,md,35,127,,0.129999995,hv,hv72989557,2022-04-19T17:51:05.110Z,"5 km S of Pāhala, Hawaii",earthquake,0.59,0.980000019,1.41999996,14,automatic,hv,hv
@@ -173,6 +175,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-19T00:56:56.120Z,44.5301667,-112.5055,1.13,0.7,ml,7,148,0.102,0.14,mb,mb80543569,2022-04-19T16:09:47.790Z,"13 km SSE of Lima, Montana",earthquake,1.04,3.01,0.179,2,reviewed,mb,mb
 2022-04-19T00:54:53.700Z,19.2136669158936,-155.427993774414,31.0300006866455,1.94000006,md,28,140,,0.119999997,hv,hv72989002,2022-04-19T00:57:59.950Z,"Hawaii region, Hawaii",earthquake,0.64,0.850000024,0.959999979,3,automatic,hv,hv
 2022-04-19T00:51:39.530Z,47.0518333,-113.3025,13.37,1.93,ml,28,62,0.137,0.19,mb,mb80543514,2022-04-19T14:15:34.140Z,"13 km WNW of Ovando, Montana",earthquake,0.38,0.58,0.282,6,reviewed,mb,mb
+2022-04-19T00:50:23.606Z,40.2461,-119.5292,15.1,1,ml,4,284.41,0.173,0.1271,nn,nn00837457,2022-04-19T19:46:08.618Z,"33 km N of Sutcliffe, Nevada",earthquake,,5.4,0.05,3,reviewed,nn,nn
 2022-04-19T00:49:07.404Z,40.3365,-125.6373,10,2.8,ml,,269,1.161,0.34,us,us7000h36z,2022-04-19T03:46:54.781Z,"119 km WSW of Ferndale, California",earthquake,6.4,2,0.053,46,reviewed,us,us
 2022-04-19T00:40:13.320Z,44.3593333,-115.2073333,10.38,2.22,ml,12,83,0.839,0.2,mb,mb80543509,2022-04-19T14:23:59.420Z,"26 km NW of Stanley, Idaho",earthquake,0.52,0.95,0.158,12,reviewed,mb,mb
 2022-04-19T00:34:03.730Z,19.4871666666667,-155.6565,-3.19,2.11,ml,34,69,,0.23,hv,hv72988992,2022-04-19T00:58:02.360Z,"22 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.24,0.17,0.101014204983776,8,reviewed,hv,hv
