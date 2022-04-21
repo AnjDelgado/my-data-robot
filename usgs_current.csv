@@ -253,4 +253,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-20T23:54:00.190Z,32.9191667,-115.522,3.46,2.48,ml,21,85,0.03704,0.15,ci,ci40242728,2022-04-21T17:27:33.092Z,"7km S of Brawley, CA",earthquake,0.17,0.22,0.066,7,reviewed,ci,ci
 2022-04-20T23:52:47.520Z,32.917,-115.5131667,11.34,3.27,ml,49,36,0.04289,0.28,ci,ci40242720,2022-04-21T19:20:30.260Z,"7km SSE of Brawley, CA",earthquake,0.29,0.54,0.154,76,reviewed,ci,ci
 2022-04-20T23:42:46.422Z,12.8228,-90.67,10,4.7,mb,,104,1.379,0.92,us,us6000hf5a,2022-04-21T00:18:09.040Z,"122 km S of Iztapa, Guatemala",earthquake,6.7,1.9,0.033,272,reviewed,us,us
-2022-04-20T23:26:48.547Z,8.1383,-82.9425,10,4.7,mb,,81,0.698,0.81,us,us6000hf54,2022-04-21T02:46:28.698Z,"9 km WNW of Limones, Panama",earthquake,5.5,1.8,0.056,97,reviewed,us,us
