@@ -87,6 +87,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-22T04:48:25.908Z,62.2714,-149.1266,5.9,1.9,ml,,,,0.52,ak,ak02255auy3i,2022-04-22T05:18:01.776Z,"39 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-22T04:48:17.940Z,19.2186660766602,-155.390502929688,31.4500007629395,1.74000001,md,31,160,,0.119999997,hv,hv72992137,2022-04-22T04:51:24.750Z,"9 km E of Pāhala, Hawaii",earthquake,0.76,0.850000024,1.75999999,4,automatic,hv,hv
 2022-04-22T04:42:46.240Z,38.7801666,-122.7659988,1.17,0.36,md,7,108,0.009434,0.02,nc,nc73721570,2022-04-22T05:17:24.652Z,"1km WNW of The Geysers, CA",earthquake,0.47,1.02,,1,automatic,nc,nc
+2022-04-22T04:32:38.390Z,44.5015,-110.4561667,2.06,0.7,md,16,65,0.07052,0.16,uu,uu60493687,2022-04-22T14:52:41.590Z,"54 km ESE of West Yellowstone, Montana",earthquake,0.32,2.02,0.382,8,reviewed,uu,uu
 2022-04-22T04:30:23.470Z,33.8726667,-117.2043333,9.78,0.84,ml,11,145,0.01103,0.18,ci,ci40243616,2022-04-22T04:33:59.245Z,"6km ESE of March Air Reserve Base, CA",earthquake,0.78,1.52,0.319,19,automatic,ci,ci
 2022-04-22T04:27:51.050Z,35.7605,-117.6411667,4.82,1.27,ml,18,106,0.06556,0.18,ci,ci40243608,2022-04-22T04:31:23.230Z,"16km NNE of Ridgecrest, CA",earthquake,0.37,0.6,0.173,15,automatic,ci,ci
 2022-04-22T04:23:41.060Z,36.066,-117.8441667,3,0.96,ml,10,129,0.0522,0.13,ci,ci40243600,2022-04-22T04:27:13.153Z,"10km ENE of Coso Junction, CA",earthquake,0.32,0.84,0.138,13,automatic,ci,ci
