@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-23T14:41:39.870Z,35.9755,-117.391,0.09,2.04,ml,23,109,0.1215,0.18,ci,ci40244360,2022-04-23T14:45:26.324Z,"23km N of Searles Valley, CA",earthquake,0.4,31.61,0.131,26,automatic,ci,ci
 2022-04-23T14:32:14.721Z,63.5977,-147.8938,33.8,1.4,ml,,,,0.8,ak,ak02257496b2,2022-04-23T14:34:44.702Z,"52 km ESE of Denali Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-04-23T14:30:11.250Z,38.8673325,-122.8048325,0.93,0.87,md,14,161,0.01208,0.03,nc,nc73722285,2022-04-23T14:31:50.428Z,"9km NW of Cobb, CA",earthquake,0.46,0.61,,1,automatic,nc,nc
 2022-04-23T14:30:00.610Z,38.8428345,-122.8398361,2.11,0.87,md,16,120,0.005432,0.01,nc,nc73722280,2022-04-23T14:31:35.639Z,"10km NW of The Geysers, CA",earthquake,0.26,0.47,0.01,2,automatic,nc,nc
