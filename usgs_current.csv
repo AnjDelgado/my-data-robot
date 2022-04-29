@@ -229,5 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-28T19:58:26.927Z,60.1693,-140.3647,12.1,1.2,ml,,,,0.82,ak,ak0225fh2odg,2022-04-28T20:07:33.729Z,"77 km NNW of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-28T19:53:36.850Z,47.161833333333334,-121.82533333333333,-0.61,1.6500000000000001,ml,15,129,0.04657,0.09,uw,uw61834961,2022-04-29T03:48:16.040Z,"13 km W of Greenwater, Washington",explosion,0.57,31.61,0.20340000427851812,5,reviewed,uw,uw
 2022-04-28T19:48:53.298Z,38.4011,-116.2021,0,2,ml,5,132.96,0.837,0.158,nn,nn00838021,2022-04-28T21:31:04.809Z,"93 km NNW of Rachel, Nevada",earthquake,,2.8,0.34,2,reviewed,nn,nn
-2022-04-28T19:42:33.240Z,18.1191666666667,-66.9841666666667,16.32,2.08,md,4,176,,0.08,pr,pr71346648,2022-04-28T20:19:46.180Z,"5 km NNW of Sabana Grande, Puerto Rico",earthquake,1.46,0.92,0.0604121744953703,4,reviewed,pr,pr
-2022-04-28T19:42:10.870Z,44.0827,147.7965,68.75,4.4,mb,,182,3.748,0.53,us,us7000h5q0,2022-04-28T21:06:34.040Z,"91 km ENE of Shikotan, Russia",earthquake,14,9.7,0.066,67,reviewed,us,us
