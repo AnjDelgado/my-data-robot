@@ -208,4 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-02T07:59:09.320Z,37.5878333,-118.8186667,2.93,1.96,md,23,105,0.008579,0.05,nc,nc73728081,2022-05-02T19:59:11.700Z,"13km WNW of Toms Place, CA",earthquake,0.26,0.41,0.105,20,reviewed,nc,nc
 2022-05-02T07:54:42.390Z,37.4385,-121.7766667,8.86,1.08,md,35,64,0.0469,0.07,nc,nc73728076,2022-05-02T17:37:10.820Z,"9km NNE of Alum Rock, CA",earthquake,0.2,0.32,0.313,27,reviewed,nc,nc
 2022-05-02T07:50:28.340Z,58.406,-154.804166666667,6,-0.22,ml,6,154,,0.17,av,av91057053,2022-05-02T22:57:16.410Z,"95 km NNW of Karluk, Alaska",earthquake,0.62,2.39,0.0857233848815708,6,reviewed,av,av
-2022-05-02T07:47:20.550Z,17.9371666666667,-66.766,15.43,2.69,md,8,222,,0.2,pr,pr71347053,2022-05-02T08:13:22.580Z,"8 km SW of Tallaboa, Puerto Rico",earthquake,1.58,0.89,0.203782774988997,2,reviewed,pr,pr
