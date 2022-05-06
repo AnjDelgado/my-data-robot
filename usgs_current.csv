@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-05-06T19:27:48.990Z,37.3983345,-118.4144974,8.78,2.1,md,8,155,0.03299,0.02,nc,nc73730181,2022-05-06T19:31:17.497Z,"1km N of Dixon Lane-Meadow Creek, CA",earthquake,0.49,0.77,0.3,8,automatic,nc,nc
-2022-05-06T19:24:47.820Z,33.9838333,-116.661,16.59,2.64,ml,83,22,0.05562,0.19,ci,ci40253800,2022-05-06T19:30:35.886Z,"10km SW of Morongo Valley, CA",earthquake,0.17,0.49,0.291,25,automatic,ci,ci
+2022-05-06T19:36:41.270Z,36.1656667,-118.245,-0.08,1.65,ml,9,174,0.3043,0.29,ci,ci40253824,2022-05-06T19:40:25.073Z,"25km WSW of Olancha, CA",earthquake,1.46,31.61,0.4,22,automatic,ci,ci
+2022-05-06T19:36:20.330Z,37.3945007,-118.4148331,9.31,2.92,md,23,151,0.03652,0.06,nc,nc73730186,2022-05-06T19:39:51.828Z,"1km N of Dixon Lane-Meadow Creek, CA",earthquake,0.32,0.58,0.13,36,automatic,nc,nc
+2022-05-06T19:27:48.990Z,37.3983345,-118.4144974,8.78,2.1,md,8,155,0.03299,0.02,nc,nc73730181,2022-05-06T19:36:14.223Z,"1km N of Dixon Lane-Meadow Creek, CA",earthquake,0.49,0.77,0.3,8,automatic,nc,nc
+2022-05-06T19:24:47.820Z,33.9838333,-116.661,16.59,2.64,ml,83,22,0.05562,0.19,ci,ci40253800,2022-05-06T19:36:08.690Z,"10km SW of Morongo Valley, CA",earthquake,0.17,0.49,0.291,25,automatic,ci,ci
 2022-05-06T19:22:32.078Z,64.6004,-147.7428,6.1,1.4,ml,,,,1,ak,ak0225sp5qy0,2022-05-06T19:28:52.032Z,"23 km S of South Van Horn, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-05-06T19:17:52.375Z,59.624,-152.8351,92.7,1.3,ml,,,,0.27,ak,ak0225sp4pxi,2022-05-06T19:20:31.971Z,"59 km WSW of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-05-06T19:10:35.320Z,43.470333333333336,-123.04983333333334,-0.34,1.54,ml,6,143,0.06318,0.05,uw,uw61828682,2022-05-06T19:30:32.730Z,"14 km ENE of Fair Oaks, Oregon",explosion,0.42,31.61,0.11162534503975641,4,reviewed,uw,uw
