@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-05-10T15:56:20.290Z,57.9028,-155.7884,9.6,1.8,ml,,,,0.18,ak,ak0225z94nxp,2022-05-10T15:58:11.710Z,"87 km WNW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-05-10T15:56:20.141Z,57.8868,-155.7623,10.6,1.8,ml,,,,0.19,ak,ak0225z94nxp,2022-05-10T16:00:25.141Z,"85 km WNW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-05-10T15:49:58.200Z,19.2005004882812,-155.505661010742,34.6699981689453,2.17000008,md,40,78,,0.129999995,hv,hv73008332,2022-05-10T15:53:06.290Z,"2 km W of Pāhala, Hawaii",earthquake,0.68,0.959999979,1.37,20,automatic,hv,hv
 2022-05-10T15:43:34.810Z,35.8878333,-117.7326667,3.07,0.24,ml,8,113,0.08332,0.14,ci,ci40255584,2022-05-10T15:47:02.834Z,"17km ESE of Little Lake, CA",earthquake,0.37,9.25,0.233,4,automatic,ci,ci
 2022-05-10T15:39:06.530Z,34.0171667,-117.1148333,4.61,1.16,ml,23,93,0.01837,0.25,ci,ci40255576,2022-05-10T15:42:45.138Z,"6km SSE of Mentone, CA",earthquake,0.51,1.16,0.216,31,automatic,ci,ci
@@ -118,7 +118,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-10T04:11:01.270Z,36.139,-118.2378333,3.36,1.69,ml,23,71,0.3105,0.18,ci,ci40255328,2022-05-10T04:14:39.468Z,"26km SW of Olancha, CA",earthquake,0.34,2.65,0.169,22,automatic,ci,ci
 2022-05-10T04:00:49.974Z,61.4393,-146.4547,18.8,1.4,ml,,,,0.37,ak,ak0225z28yka,2022-05-10T04:10:56.946Z,"34 km N of Valdez, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-05-10T03:55:48.250Z,38.8325005,-122.8168335,1.3,0.87,md,21,55,0.01051,0.02,nc,nc73731586,2022-05-10T04:12:16.955Z,"8km NW of The Geysers, CA",earthquake,0.18,0.42,0.03,4,automatic,nc,nc
-2022-05-10T03:55:40.714Z,34.1678,-80.7433,5.56,2.9,mb_lg,,37,0.328,0.48,us,us7000h88y,2022-05-10T15:53:50.951Z,"4 km E of Elgin, South Carolina",earthquake,1.4,4.9,0.073,49,reviewed,us,us
+2022-05-10T03:55:40.714Z,34.1678,-80.7433,5.56,2.9,mb_lg,,37,0.328,0.48,us,us7000h88y,2022-05-10T16:00:48.785Z,"4 km E of Elgin, South Carolina",earthquake,1.4,4.9,0.073,49,reviewed,us,us
 2022-05-10T03:46:09.390Z,33.9706667,-116.8413333,12.69,1.03,ml,21,79,0.1415,0.22,ci,ci40255320,2022-05-10T03:49:44.612Z,"6km NNE of Banning, CA",earthquake,0.42,1.12,0.156,29,automatic,ci,ci
 2022-05-10T03:45:05.720Z,38.1603,-117.8628,9.5,1,ml,10,173.99,0.079,0.1588,nn,nn00838591,2022-05-10T03:49:02.668Z,"33 km SE of Mina, Nevada",earthquake,,0.6,0.43,5,automatic,nn,nn
 2022-05-10T03:44:33.460Z,34.5066667,-117.805,4.71,2.32,ml,62,32,0.05865,0.24,ci,ci40255312,2022-05-10T03:55:19.500Z,"2km NW of Llano, CA",earthquake,0.23,1.31,0.182,26,automatic,ci,ci
@@ -251,5 +251,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-09T16:10:56.585Z,38.1638,-117.8661,3.1,1.5,ml,10,107.71,0.078,0.1539,nn,nn00838543,2022-05-09T17:21:36.335Z,"32 km SE of Mina, Nevada",earthquake,,2.9,0.95,5,reviewed,nn,nn
 2022-05-09T16:09:27.286Z,38.1574,-117.8708,5.7,1.7,ml,10,90.22,0.072,0.167,nn,nn00838541,2022-05-09T17:15:22.053Z,"33 km SE of Mina, Nevada",earthquake,,3.1,0.25,5,reviewed,nn,nn
 2022-05-09T16:07:05.557Z,38.1615,-117.8664,3.9,2.4,ml,9,151.59,0.077,0.1391,nn,nn00838540,2022-05-09T17:09:07.141Z,"33 km SE of Mina, Nevada",earthquake,,3.5,0.26,5,reviewed,nn,nn
-2022-05-09T16:03:42.680Z,58.213,-155.3665,8.08,0.3,ml,5,286,,0.15,av,av91057978,2022-05-10T08:09:18.400Z,"89 km NW of Karluk, Alaska",earthquake,0.88,1.17,0.152797116301446,5,reviewed,av,av
-2022-05-09T16:03:23.062Z,40.0809,-119.6825,12.6,0.1,ml,3,171.27,0.097,0.0248,nn,nn00838574,2022-05-09T22:16:16.049Z,"16 km NNW of Sutcliffe, Nevada",earthquake,,6.9,0,2,reviewed,nn,nn
