@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-13T23:45:41.330Z,17.9808333333333,-66.9665,7.79,1.94,md,3,172,,0.05,pr,pr71348738,2022-05-13T23:55:18.580Z,"5 km W of Fuig, Puerto Rico",earthquake,6.59,1.47,0.170657377598165,3,reviewed,pr,pr
 2022-05-13T23:22:35.280Z,36.0046667,-117.9291667,2.8,1.47,ml,22,48,0.03158,0.15,ci,ci40018039,2022-05-13T23:51:56.566Z,"5km SSE of Coso Junction, CA",earthquake,0.26,0.58,0.154,21,reviewed,ci,ci
 2022-05-13T23:22:24.890Z,36.0053333,-117.926,3.3,1.18,ml,13,213,0.02896,0.06,ci,ci40018031,2022-05-13T23:49:08.551Z,"5km SSE of Coso Junction, CA",earthquake,0.26,0.23,0.216,15,reviewed,ci,ci
 2022-05-13T23:19:01.029Z,67.1791,-154.0559,0.1,1.5,ml,,,,0.9,ak,ak02264ca78p,2022-05-13T23:38:36.256Z,"91 km NW of Alatna, Alaska",earthquake,,0.4,,,automatic,ak,ak
