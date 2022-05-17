@@ -8,7 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-17T10:45:43.630Z,38.8048325,-122.893837,4.22,0.27,md,8,210,0.01162,0.03,nc,nc73734971,2022-05-17T10:54:11.053Z,"11km E of Cloverdale, CA",earthquake,1.18,2.04,0.13,2,automatic,nc,nc
 2022-05-17T10:26:28.620Z,35.6963333,-117.6043333,10.7,1.21,ml,14,129,0.1191,0.17,ci,ci40020951,2022-05-17T10:30:07.322Z,"11km NE of Ridgecrest, CA",earthquake,0.35,0.81,0.176,13,automatic,ci,ci
 2022-05-17T10:22:47.670Z,38.8176651,-122.8180008,2.34,1.18,md,26,47,0.008431,0.02,nc,nc73734966,2022-05-17T10:31:10.937Z,"7km NW of The Geysers, CA",earthquake,0.18,0.36,0.14,6,automatic,nc,nc
-2022-05-17T10:21:56.510Z,-5.9239,150.0901,57.69,4.8,mb,,45,2.688,0.48,us,us6000hlr6,2022-05-17T10:41:23.040Z,"41 km S of Kimbe, Papua New Guinea",earthquake,8.7,6.1,0.073,59,reviewed,us,us
+2022-05-17T10:21:56.510Z,-5.9239,150.0901,57.69,4.8,mb,,45,2.688,0.48,us,us6000hlr6,2022-05-17T11:42:05.599Z,"41 km S of Kimbe, Papua New Guinea",earthquake,8.7,6.1,0.073,59,reviewed,us,us
 2022-05-17T10:10:55.460Z,38.8351669,-122.8123322,1.86,0.85,md,10,74,0.01189,0.01,nc,nc73734961,2022-05-17T10:17:10.867Z,"8km W of Cobb, CA",earthquake,0.34,1.05,,1,automatic,nc,nc
 2022-05-17T10:08:57.330Z,38.7893333,-122.7811661,3.13,0.5,md,12,103,0.006526,0.01,nc,nc73734956,2022-05-17T10:17:11.867Z,"2km WNW of The Geysers, CA",earthquake,0.31,0.85,0.35,2,automatic,nc,nc
 2022-05-17T09:52:13.476Z,36.40987015,-98.36504364,3.461752415,1.78,ml,26,78.52246857,0.1497574151,0.5150461289,ok,ok2022jpfy,2022-05-17T09:54:16.008Z,"6 km E of Cleo Springs, Oklahoma",earthquake,2.444355857,1.927896824,,18,automatic,ok,ok
@@ -225,4 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-16T12:32:18.650Z,18.7683333333333,-65.5448333333333,36.07,3.36,md,11,252,,0.34,pr,pr71349038,2022-05-16T14:44:39.659Z,"47 km NNE of Luquillo, Puerto Rico",earthquake,1.74,7.59,0.0444307405448239,5,reviewed,pr,pr
 2022-05-16T12:32:12.970Z,44.3491667,-115.0551667,6.46,1.5,ml,10,92,0.73,0.18,mb,mb80545964,2022-05-16T19:36:51.640Z,"17 km NNW of Stanley, Idaho",earthquake,0.46,1.41,0.198,11,reviewed,mb,mb
 2022-05-16T12:12:13.350Z,36.3588333,-89.514,8.61,2.02,md,38,35,0.01684,0.08,nm,nm60394641,2022-05-16T12:48:23.500Z,"4 km WSW of Tiptonville, Tennessee",earthquake,0.18,0.34,0.194,35,reviewed,nm,nm
-2022-05-16T11:43:26.190Z,-0.7444,133.2796,35.29,4.9,mb,,117,2.393,0.44,us,us6000hlg1,2022-05-16T12:01:12.040Z,"88 km W of Manokwari, Indonesia",earthquake,5.6,6.8,0.071,62,reviewed,us,us
