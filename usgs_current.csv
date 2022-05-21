@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-21T03:50:23.570Z,19.1268329620361,-155.391494750977,32.0200004577637,2.1,ml,46,184,,0.109999999,hv,hv73018627,2022-05-21T03:55:54.710Z,"12 km SE of Pāhala, Hawaii",earthquake,0.57,0.850000024,4.55,4,automatic,hv,hv
 2022-05-21T03:48:05.991Z,61.4891,-148.0616,31.9,1.1,ml,,,,0.65,ak,ak0226h8uj9z,2022-05-21T03:50:17.794Z,"40 km SSE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-05-21T03:43:52.060Z,35.8616667,-117.6726667,4.78,1.12,ml,15,89,0.07635,0.15,ci,ci40023479,2022-05-21T03:47:29.164Z,"23km ESE of Little Lake, CA",earthquake,0.47,0.83,0.131,12,automatic,ci,ci
 2022-05-21T03:16:33.802Z,63.4794,-150.8394,0,1.2,ml,,,,0.55,ak,ak0226h8nqib,2022-05-21T03:19:26.575Z,"44 km E of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -38,7 +39,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-20T23:17:41.010Z,33.9505,-117.8026667,6.73,0.85,ml,17,86,0.02245,0.18,ci,ci40023367,2022-05-21T00:13:37.962Z,"6km SW of Chino Hills, CA",earthquake,0.42,0.75,0.078,6,reviewed,ci,ci
 2022-05-20T23:17:23.261Z,64.9991,-147.4098,5.5,1.6,ml,,,,0.55,ak,ak0226fx190w,2022-05-20T23:33:25.572Z,"10 km ENE of Fox, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-05-20T23:12:19.558Z,-19.3741,169.3378,142.27,4.6,mb,,82,3.675,0.79,us,us6000hmt5,2022-05-20T23:27:47.040Z,"19 km NNE of Isangel, Vanuatu",earthquake,7.9,8.1,0.066,69,reviewed,us,us
-2022-05-20T23:07:42.130Z,36.5660019,-121.1541672,2.6,2.52,md,28,118,,0.08,nc,nc73736106,2022-05-21T02:08:10.009Z,"4km NNW of Pinnacles, CA",earthquake,0.26,0.55,0.1,16,automatic,nc,nc
+2022-05-20T23:07:42.130Z,36.5660019,-121.1541672,2.6,2.52,md,28,118,,0.08,nc,nc73736106,2022-05-21T03:55:59.394Z,"4km NNW of Pinnacles, CA",earthquake,0.26,0.55,0.1,16,automatic,nc,nc
 2022-05-20T23:04:49.180Z,45.309333333333335,-121.76466666666667,5.48,0.7000000000000001,ml,7,166,0.02731,0.07,uw,uw61833537,2022-05-20T23:50:50.790Z,"0 km NW of Government Camp, Oregon",earthquake,0.47,0.86,0.16687202790978262,4,reviewed,uw,uw
 2022-05-20T23:04:47.140Z,17.9491666666667,-66.8411666666667,14.58,1.82,md,10,209,,0.15,pr,pr71349618,2022-05-20T23:20:49.290Z,"5 km SSW of Indios, Puerto Rico",earthquake,0.6,0.71,0.133314891088989,8,reviewed,pr,pr
 2022-05-20T22:50:36.973Z,38.1846,-117.8613,11.5,0.4,ml,13,174.67,0.09,0.1003,nn,nn00839230,2022-05-20T23:50:25.961Z,"31 km SE of Mina, Nevada",earthquake,,1.7,0.41,3,reviewed,nn,nn
