@@ -29,7 +29,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-23T18:53:29.100Z,37.4796667,-118.8496667,2.41,0.42,md,10,241,0.1114,0.03,nc,nc73737186,2022-05-23T19:24:10.339Z,"18km WSW of Toms Place, CA",earthquake,1.07,3.95,0.073,8,reviewed,nc,nc
 2022-05-23T18:51:20.740Z,36.4925003,-121.060997,4.96,1.96,md,11,142,0.03723,0.05,nc,nc73737181,2022-05-23T20:01:12.518Z,"9km ESE of Pinnacles, CA",earthquake,0.33,0.89,0.28,7,automatic,nc,nc
 2022-05-23T18:50:19.610Z,33.0256667,-116.2931667,4.41,1.14,ml,36,56,0.07139,0.25,ci,ci40024799,2022-05-23T19:00:52.140Z,"20km SW of Ocotillo Wells, CA",earthquake,0.36,1.29,0.126,24,automatic,ci,ci
-2022-05-23T18:45:15.312Z,14.1179,145.9341,81.7,5.1,mww,,38,1.16,0.5,us,us7000hbzi,2022-05-23T22:49:14.656Z,"99 km SSE of San Jose Village, Northern Mariana Islands",earthquake,9,5.5,0.068,21,reviewed,us,us
+2022-05-23T18:45:15.312Z,14.1179,145.9341,81.7,5.1,mww,,38,1.16,0.5,us,us7000hbzi,2022-05-23T22:55:21.759Z,"99 km SSE of San Jose Village, Northern Mariana Islands",earthquake,9,5.5,0.068,21,reviewed,us,us
 2022-05-23T18:38:54.920Z,36.41316667,-96.88366667,5.52,0.02,ml,18,105,0.03869240723,0.08,ok,ok2022kawi,2022-05-23T18:48:31.066Z,"11 km NW of Pawnee, Oklahoma",earthquake,,0.5,0.29,8,reviewed,ok,ok
 2022-05-23T18:37:33.853Z,60.0037,-153.4612,105,1.1,ml,,,,0.71,ak,ak0226kssfns,2022-05-23T18:46:12.618Z,"43 km ENE of Pedro Bay, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2022-05-23T18:32:49.927Z,61.6781,-152.0754,105,1.7,ml,,,,0.58,ak,ak0226ksrebl,2022-05-23T18:46:11.832Z,"49 km SW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -230,4 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-22T23:20:22.177Z,33.9541,134.2906,39.22,4.5,mb,,97,0.41,0.6,us,us6000hn6b,2022-05-23T07:33:32.511Z,"13 km SSW of Kamojimachō-jōgejima, Japan",earthquake,5.7,6.2,0.101,29,reviewed,us,us
 2022-05-22T23:10:33.160Z,35.9076667,-117.7485,6.72,0.82,ml,15,63,0.06991,0.05,ci,ci40024351,2022-05-23T21:56:44.756Z,"15km ESE of Little Lake, CA",earthquake,0.12,0.37,0.165,8,reviewed,ci,ci
 2022-05-22T23:06:04.020Z,38.8084984,-122.8138351,3.14,0.96,md,22,56,0.01199,0.03,nc,nc73736846,2022-05-23T00:11:16.417Z,"6km NW of The Geysers, CA",earthquake,0.25,0.47,0.21,3,automatic,nc,nc
-2022-05-22T22:59:52.990Z,36.27866667,-97.5035,6.57,1.27,ml,57,47,0.06838658022,0.28,ok,ok2022jzjl,2022-05-23T15:47:22.364Z,"4 km W of Lucien, Oklahoma",earthquake,,0.6,0.33,5,reviewed,ok,ok
