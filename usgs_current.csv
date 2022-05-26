@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-05-26T19:14:08.050Z,36.0808333,-117.8488333,2.24,1.15,ml,17,73,0.03699,0.07,ci,ci40027527,2022-05-26T19:26:51.270Z,"10km ENE of Coso Junction, CA",earthquake,0.13,0.11,0.111,14,reviewed,ci,ci
-2022-05-26T19:07:22.120Z,38.7830009,-122.7679977,3.84,0.36,md,8,110,0.01239,0.06,nc,nc73738321,2022-05-26T19:16:10.341Z,"1km WNW of The Geysers, CA",earthquake,1.38,3.68,,1,automatic,nc,nc
+2022-05-26T19:07:22.120Z,38.7830009,-122.7679977,3.84,0.36,md,8,110,0.01239,0.06,nc,nc73738321,2022-05-26T19:56:17.562Z,"1km WNW of The Geysers, CA",earthquake,1.38,3.68,,1,automatic,nc,nc
 2022-05-26T19:07:11.890Z,38.8431664,-122.8406677,1.61,0.37,md,9,131,0.006104,0.03,nc,nc73738316,2022-05-26T19:45:15.504Z,"10km NW of The Geysers, CA",earthquake,0.32,0.73,,1,automatic,nc,nc
 2022-05-26T19:07:06.010Z,33.7311667,-116.8183333,16.67,0.79,ml,17,198,0.08908,0.08,ci,ci40027519,2022-05-26T19:16:08.015Z,"7km ESE of Valle Vista, CA",earthquake,0.3,0.34,0.19,9,reviewed,ci,ci
 2022-05-26T18:56:20.390Z,33.517,-116.5546667,12.04,0.89,ml,30,40,0.04497,0.12,ci,ci40027511,2022-05-26T19:07:16.420Z,"12km ESE of Anza, CA",earthquake,0.17,0.32,0.131,22,reviewed,ci,ci
@@ -24,7 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-26T17:06:31.545Z,38.1842,-117.8661,7.7,1.8,ml,17,113.9,0.086,0.1351,nn,nn00839751,2022-05-26T17:39:19.405Z,"31 km SE of Mina, Nevada",earthquake,,1.7,0.34,5,reviewed,nn,nn
 2022-05-26T17:01:17.290Z,33.6588333,-116.9316667,15.77,2.29,ml,90,29,0.02892,0.18,ci,ci40027447,2022-05-26T18:52:06.630Z,"10km SSW of Valle Vista, CA",earthquake,0.13,0.3,0.211,25,reviewed,ci,ci
 2022-05-26T16:55:01.770Z,38.8388329,-122.8119965,2.12,0.85,md,15,59,0.01549,0.03,nc,nc73738266,2022-05-26T17:05:11.566Z,"8km WNW of Cobb, CA",earthquake,0.28,0.71,,1,automatic,nc,nc
-2022-05-26T16:46:46.221Z,37.9806,-118.7195,4.8,1.9,ml,21,93.73,0.319,0.1497,nn,nn00839744,2022-05-26T17:08:17.166Z,"27 km NW of Benton, California",earthquake,,1.5,0.22,9,reviewed,nn,nn
+2022-05-26T16:46:46.020Z,37.9775,-118.7141667,2.97,1.7,md,20,163,0.2827,0.06,nc,nc73738256,2022-05-26T19:57:40.135Z,"36km E of Lee Vining, CA",earthquake,0.5,31.61,0.214,19,reviewed,nc,nc
 2022-05-26T16:44:10.260Z,19.1513328552246,-155.503662109375,33.8800010681152,2.08999991,md,34,131,,0.189999998,hv,hv73023892,2022-05-26T16:47:30.770Z,"6 km SSW of Pāhala, Hawaii",earthquake,0.91,1.15999997,1.03999996,7,automatic,hv,hv
 2022-05-26T16:44:08.250Z,38.8128319,-122.8186646,2.48,1.17,md,16,54,0.009118,0.02,nc,nc73738251,2022-05-26T19:39:16.473Z,"7km NW of The Geysers, CA",earthquake,0.26,0.72,,1,automatic,nc,nc
 2022-05-26T16:42:23.260Z,38.795166,-122.8154984,2.98,0.85,md,11,99,0.01187,0.02,nc,nc73738246,2022-05-26T17:33:15.750Z,"6km WNW of The Geysers, CA",earthquake,0.41,1.43,,1,automatic,nc,nc
