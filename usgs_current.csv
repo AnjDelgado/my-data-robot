@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-27T20:48:47.514Z,63.602,-149.4513,107.1,2,ml,,,,0.44,ak,ak0226rg72qo,2022-05-27T20:52:41.105Z,"30 km WSW of Denali Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-05-27T20:01:12.324Z,38.1895,-117.7861,3.4,1.6,ml,16,120.2,0.128,0.1132,nn,nn00839837,2022-05-27T20:04:54.359Z,"35 km SE of Mina, Nevada",earthquake,,2,0.4,10,automatic,nn,nn
 2022-05-27T20:00:33.820Z,36.18942642,-95.9785614,10,1.94,ml,19,246.7043152,0.2557635903,0.4648130136,ok,ok2022kihb,2022-05-27T20:03:36.573Z,"4 km NNE of Tulsa, Oklahoma",earthquake,,0,,15,automatic,ok,ok
 2022-05-27T19:52:13.091Z,38.3428,-118.9155,9,1.6,ml,14,143.51,0.335,0.2196,nn,nn00839834,2022-05-27T19:55:53.379Z,"29 km ENE of Bridgeport, California",earthquake,,2,0.31,10,automatic,nn,nn
@@ -234,4 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-26T21:07:19.380Z,33.3423333,-116.2355,11.29,0.8,ml,23,126,0.06516,0.15,ci,ci40027583,2022-05-26T23:37:13.119Z,"16km NE of Borrego Springs, CA",earthquake,0.35,0.46,0.112,13,reviewed,ci,ci
 2022-05-26T21:01:27.260Z,38.5625,-122.437,5.97,1.09,md,20,116,0.07295,0.06,nc,nc73738346,2022-05-26T21:51:17.629Z,"2km SE of Angwin, CA",earthquake,0.31,0.63,0.169,10,reviewed,nc,nc
 2022-05-26T21:00:15.110Z,33.5058333,-116.5031667,14.33,0.72,ml,20,100,0.05653,0.14,ci,ci40027575,2022-05-26T23:26:54.780Z,"17km ESE of Anza, CA",earthquake,0.33,0.48,0.171,13,reviewed,ci,ci
-2022-05-26T20:54:11.880Z,37.551,-118.8096667,3.67,0.03,md,9,308,0.04191,0.04,nc,nc73738341,2022-05-26T21:29:24.508Z,"12km W of Toms Place, CA",earthquake,1.34,0.86,0.107,8,reviewed,nc,nc
