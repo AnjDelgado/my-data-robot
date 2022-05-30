@@ -157,4 +157,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-29T21:13:25.117Z,3.9045,126.7592,46.77,4.9,mb,,80,3.17,0.29,us,us7000hdhk,2022-05-30T00:46:02.040Z,"219 km SE of Sarangani, Philippines",earthquake,7.3,6.9,0.051,121,reviewed,us,us
 2022-05-29T21:03:47.919Z,58.8347,-134.0829,0,3,ml,,,,1.14,ak,ak0226urlk4n,2022-05-30T00:33:30.040Z,"62 km NNE of Juneau, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-05-29T21:02:55.659Z,51.7533,-174.8452,35,3.5,mb,,204,0.601,0.55,us,us7000hdhi,2022-05-30T00:26:03.040Z,"66 km SW of Atka, Alaska",earthquake,6.3,2,0.132,14,reviewed,us,us
-2022-05-29T20:52:50.893Z,61.0621,-151.1348,58.9,0.9,ml,,,,0.55,ak,ak0226uramtj,2022-05-29T21:03:48.920Z,"0 km S of Tyonek, Alaska",earthquake,,0.9,,,automatic,ak,ak
