@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-31T07:43:29.652Z,62.9266,-148.7722,62.1,1.2,ml,,,,0.73,ak,ak0226xukpwk,2022-05-31T07:47:16.769Z,"52 km S of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-05-31T07:28:12.690Z,35.639,-117.4551667,5.57,0.98,ml,11,154,0.0527,0.2,ci,ci40030823,2022-05-31T07:31:45.476Z,"15km SSW of Searles Valley, CA",earthquake,0.72,1.16,0.093,8,automatic,ci,ci
 2022-05-31T07:10:10.474Z,-5.8913,104.3239,70.64,5.6,mb,,34,2.042,1,us,us7000hdqr,2022-05-31T07:30:38.595Z,"115 km WSW of Bandar Lampung, Indonesia",earthquake,7.5,6.3,0.05,142,reviewed,us,us
 2022-05-31T06:59:26.930Z,17.9455,-66.8785,13,1.64,md,4,270,0.0296,0.19,pr,pr2022151002,2022-05-31T07:37:29.349Z,"3 km SSE of Maria Antonia, Puerto Rico",earthquake,1.79,1.35,0.18,4,reviewed,pr,pr
