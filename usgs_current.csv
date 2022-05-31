@@ -199,4 +199,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-30T22:11:19.200Z,33.1681667,-116.4481667,10.33,0.76,ml,15,94,0.1031,0.22,ci,ci40030639,2022-05-30T22:14:50.118Z,"12km SW of Borrego Springs, CA",earthquake,0.58,1.01,0.1,9,automatic,ci,ci
 2022-05-30T22:08:17.568Z,38.0511,-118.0135,3.5,0.6,ml,8,241.66,0.098,0.1451,nn,nn00839950,2022-05-30T22:12:23.983Z,"38 km SSE of Mina, Nevada",earthquake,,1.4,0.17,3,automatic,nn,nn
 2022-05-30T22:08:00.320Z,33.9868333,-116.8231667,22.32,0.93,ml,19,83,0.1544,0.35,ci,ci40030631,2022-05-30T22:11:39.608Z,"8km NNW of Cabazon, CA",earthquake,1.1,1.93,0.41,16,automatic,ci,ci
-2022-05-30T21:54:12.600Z,19.2385005950928,-155.409164428711,33.2099990844727,1.86,ml,33,133,,0.109999999,hv,hv73028407,2022-05-30T21:59:42.680Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.61,0.879999995,4.52,4,automatic,hv,hv
