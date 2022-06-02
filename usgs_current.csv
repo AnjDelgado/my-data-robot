@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-02T09:52:09.380Z,34.0193333,-118.5821667,6.2,1.07,ml,11,189,0.06578,0.22,ci,ci40032303,2022-06-02T09:55:43.949Z,"5km ESE of Las Flores, CA",earthquake,0.87,1.65,0.237,13,automatic,ci,ci
 2022-06-02T09:48:22.200Z,33.0803333,-115.6045,7.96,1.9,ml,26,66,0.04552,0.22,ci,ci40032295,2022-06-02T09:52:09.924Z,"5km NNE of Westmorland, CA",earthquake,0.35,0.67,0.151,28,automatic,ci,ci
 2022-06-02T09:47:22.130Z,33.0895,-115.585,10.87,1.23,ml,14,113,0.03179,0.21,ci,ci40032287,2022-06-02T09:51:00.106Z,"7km NNE of Westmorland, CA",earthquake,0.51,0.8,0.303,17,automatic,ci,ci
 2022-06-02T09:29:57.149Z,60.2061,-152.4413,99.6,1.2,ml,,,,0.3,ak,ak022716rc6a,2022-06-02T09:32:40.600Z,"46 km WNW of Ninilchik, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -173,4 +174,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-01T10:12:29.376Z,-20.1132,-69.2755,95.48,4.2,mb,,87,0.118,1,us,us7000he2b,2022-06-01T10:32:53.073Z,"Tarapaca, Chile",earthquake,4.8,5,0.215,6,reviewed,us,us
 2022-06-01T10:08:07.970Z,33.4908333,-116.4948333,13.69,0.35,ml,16,128,0.07303,0.28,ci,ci40031551,2022-06-01T10:11:47.667Z,"18km ESE of Anza, CA",earthquake,0.86,1.14,0.203,3,automatic,ci,ci
 2022-06-01T10:00:05.581Z,-21.5373,-66.7698,239.36,4.1,mb,,96,1.919,0.74,us,us7000he29,2022-06-01T10:29:00.040Z,"87 km SW of Atocha, Bolivia",earthquake,5.2,13.8,0.214,7,reviewed,us,us
-2022-06-01T09:58:04.217Z,38.2353,-118.3518,7,0.3,ml,8,239.73,0.122,0.1051,nn,nn00840106,2022-06-02T02:38:11.943Z,"27 km SW of Mina, Nevada",earthquake,,3.9,0.18,2,reviewed,nn,nn
