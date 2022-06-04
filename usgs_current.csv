@@ -180,4 +180,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-03T14:45:48.380Z,35.12383333,-95.484,12.88,3.16,ml,72,55,0.07918446131,0.68,ok,ok2022kure,2022-06-03T16:18:45.995Z,"10 km W of Quinton, Oklahoma",earthquake,,1.6,0.21,15,reviewed,ok,ok
 2022-06-03T14:45:39.990Z,35.08483333,-95.5055,5.9,2.78,ml,82,57,0,0.24,ok,ok2022kurf,2022-06-03T15:14:16.814Z,"12 km WSW of Quinton, Oklahoma",earthquake,,0.6,0.17,16,reviewed,ok,ok
 2022-06-03T14:41:55.030Z,35.8536667,-117.6801667,9.85,0.52,ml,13,105,0.07709,0.12,ci,ci40033199,2022-06-03T19:16:42.338Z,"22km ESE of Little Lake, CA",earthquake,0.27,0.52,0.137,5,reviewed,ci,ci
-2022-06-03T14:39:47.982Z,60.7562,-152.2608,81.5,0.7,ml,,,,0.1,ak,ak02272xbz5a,2022-06-03T14:41:23.200Z,"53 km W of Nikiski, Alaska",earthquake,,0.6,,,automatic,ak,ak
