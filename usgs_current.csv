@@ -172,7 +172,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-03T15:37:26.020Z,38.2776667,-119.3066667,11.41,2.17,md,27,88,0.1268,0.18,nc,nc73740316,2022-06-04T03:24:57.897Z,"7km WNW of Bridgeport, CA",earthquake,0.34,1.56,0.266,26,reviewed,nc,nc
 2022-06-03T15:25:59.390Z,35.6913333,-117.472,2.4,0.61,ml,15,96,0.1049,0.15,ci,ci40033223,2022-06-03T20:27:14.133Z,"10km SW of Searles Valley, CA",earthquake,0.41,0.7,0.065,6,reviewed,ci,ci
 2022-06-03T15:24:24.750Z,35.682,-117.4821667,7.5,1.42,ml,28,86,0.09667,0.14,ci,ci40033215,2022-06-03T20:21:48.850Z,"12km SW of Searles Valley, CA",earthquake,0.17,0.69,0.104,16,reviewed,ci,ci
-2022-06-03T15:20:26.603Z,-21.2196,-70.1371,73.64,4.5,mb,,150,0.246,0.78,us,us7000hepb,2022-06-03T19:43:35.011Z,"96 km N of Tocopilla, Chile",earthquake,4.1,4.9,0.131,19,reviewed,us,us
+2022-06-03T15:20:26.667Z,-21.218,-70.1189,74.51,4.4,mwr,,150,0.231,0.79,us,us7000hepb,2022-06-04T14:27:29.932Z,"97 km N of Tocopilla, Chile",earthquake,4.8,5.5,,,reviewed,us,guc
 2022-06-03T14:58:48.340Z,33.7173333,-116.8388333,15.18,1.22,ml,51,66,0.07701,0.15,ci,ci40033207,2022-06-03T20:05:51.134Z,"6km SE of Valle Vista, CA",earthquake,0.16,0.29,0.194,28,reviewed,ci,ci
 2022-06-03T14:54:35.669Z,-23.1576,-68.301,106.23,5.3,mww,,32,0.233,1.49,us,us7000hep8,2022-06-03T16:53:54.910Z,"29 km SSW of San Pedro de Atacama, Chile",earthquake,6.5,3.5,0.054,33,reviewed,us,us
 2022-06-03T14:50:54.884Z,60.7744,-151.1617,43.2,1.7,ml,,,,0.51,ak,ak02272xecjy,2022-06-03T14:57:40.007Z,"11 km NE of Nikiski, Alaska",earthquake,,2.8,,,automatic,ak,ak
@@ -182,5 +182,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-03T14:41:55.030Z,35.8536667,-117.6801667,9.85,0.52,ml,13,105,0.07709,0.12,ci,ci40033199,2022-06-03T19:16:42.338Z,"22km ESE of Little Lake, CA",earthquake,0.27,0.52,0.137,5,reviewed,ci,ci
 2022-06-03T14:39:47.982Z,60.7562,-152.2608,81.5,0.7,ml,,,,0.1,ak,ak02272xbz5a,2022-06-03T14:41:23.200Z,"53 km W of Nikiski, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-06-03T14:31:29.260Z,37.1968333,-118.2391667,13.67,1.94,md,20,170,0.04863,0.08,nc,nc73740291,2022-06-03T18:17:21.391Z,"6km NE of Big Pine, CA",earthquake,0.87,0.24,0.142,15,reviewed,nc,nc
-2022-06-03T14:27:02.940Z,36.26183333,-95.2205,0,1.38,ml,58,133,0.1817643316,0.4,ok,ok2022kuqo,2022-06-03T14:36:42.846Z,"3 km ENE of Sportsmen Acres, Oklahoma",quarry blast,,0.4,0.24,18,reviewed,ok,ok
-2022-06-03T14:21:34.930Z,51.868,-177.794166666667,7.99,0.06,ml,4,269,,0.17,av,av91061393,2022-06-04T01:24:04.450Z,"79 km W of Adak, Alaska",earthquake,1.33,1.6,0.168936962859775,3,reviewed,av,av
