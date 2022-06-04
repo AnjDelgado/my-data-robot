@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-04T15:30:20.290Z,39.3019981,-122.8536682,-0.87,2.7,md,32,40,0.1759,0.21,nc,nc73740571,2022-06-04T15:34:36.530Z,"15km SE of Lake Pillsbury, CA",earthquake,0.35,2.5,0.14,29,automatic,nc,nc
+2022-06-04T15:28:13.264Z,62.906,-148.6774,60.1,1.5,ml,,,,0.82,ak,ak02274lebon,2022-06-04T15:36:22.966Z,"55 km SSE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-06-04T15:05:42.670Z,33.56,-116.6788333,16.82,0.75,ml,25,49,0.04085,0.19,ci,ci40033815,2022-06-04T15:09:17.659Z,"1km NW of Anza, CA",earthquake,0.33,0.52,0.147,19,automatic,ci,ci
 2022-06-04T14:55:16.875Z,61.6622,-150.9813,64.5,1.8,ml,,,,0.59,ak,ak02274kyooo,2022-06-04T15:06:24.317Z,"28 km WNW of Susitna, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-06-04T14:44:13.476Z,62.433,-153.8048,11.1,1,ml,,,,0.76,ak,ak02274kwbk1,2022-06-04T14:46:59.696Z,"70 km SSE of Nikolai, Alaska",earthquake,,0.2,,,automatic,ak,ak
