@@ -183,4 +183,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-06T00:40:27.366Z,38.2219,-118.7479,11.3,0.1,ml,6,302.28,0.193,0.0909,nn,nn00840405,2022-06-06T19:36:15.928Z,"35 km SSW of Hawthorne, Nevada",earthquake,,7.7,0,1,reviewed,nn,nn
 2022-06-06T00:37:01.582Z,31.6051,-104.5082,7.03,2.8,ml,,88,0.063,0.3,us,us7000hf8v,2022-06-06T00:57:39.040Z,"western Texas",earthquake,1.6,1.3,0.044,68,reviewed,us,us
 2022-06-06T00:34:50.908Z,59.7031,-150.7324,17.1,1.4,ml,,,,0.34,ak,ak02277nkvsy,2022-06-06T00:47:42.966Z,"21 km SE of Fox River, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-06-05T23:56:22.770Z,17.9128333333333,-66.8853333333333,16.02,2.49,md,6,228,,0.09,pr,pr71352623,2022-06-06T00:36:09.430Z,"6 km SSE of Guánica, Puerto Rico",earthquake,0.8,0.65,0.0982657901769155,5,reviewed,pr,pr
