@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-06-11T21:19:23.480Z,33.4713333,-116.4938333,12.32,1.07,ml,38,57,0.07706,0.23,ci,ci40038567,2022-06-11T21:22:52.203Z,"19km ESE of Anza, CA",earthquake,0.29,0.6,0.152,26,automatic,ci,ci
+2022-06-11T21:19:23.480Z,33.4713333,-116.4938333,12.32,1.07,ml,38,57,0.07706,0.23,ci,ci40038567,2022-06-11T21:30:00.070Z,"19km ESE of Anza, CA",earthquake,0.29,0.6,0.152,26,automatic,ci,ci
 2022-06-11T20:56:25.785Z,-50.5399,139.3833,10,5.4,mww,,68,9.373,0.94,us,us7000hgsw,2022-06-11T21:19:21.085Z,"western Indian-Antarctic Ridge",earthquake,10.3,1.9,0.083,14,reviewed,us,us
 2022-06-11T20:26:43.700Z,38.8390007,-122.8018341,1.65,0.85,md,9,89,0.008993,0.01,nc,nc73744096,2022-06-11T20:43:12.005Z,"7km WNW of Cobb, CA",earthquake,0.37,1.03,,1,automatic,nc,nc
 2022-06-11T20:20:02.340Z,39.1936684,-123.4516678,4.92,2.01,md,12,89,0.06171,0.04,nc,nc73744091,2022-06-11T20:26:11.913Z,"22km WNW of Ukiah, CA",earthquake,0.29,0.91,0.08,11,automatic,nc,nc
