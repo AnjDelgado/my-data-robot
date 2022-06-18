@@ -186,4 +186,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-17T18:59:33.180Z,33.2373333,-116.6481667,11.73,0.87,ml,31,84,0.03809,0.14,ci,ci40286288,2022-06-17T19:28:52.593Z,"5km SSW of Warner Springs, CA",earthquake,0.21,0.48,0.089,14,reviewed,ci,ci
 2022-06-17T18:58:52.700Z,19.2455005645752,-155.417663574219,32.4099998474121,1.83000004,md,33,125,,0.129999995,hv,hv73047002,2022-06-17T19:01:51.360Z,"7 km NE of Pāhala, Hawaii",earthquake,0.59,0.879999995,0.370000005,5,automatic,hv,hv
 2022-06-17T18:57:13.848Z,-49.2177,120.7322,10,4.3,mb,,132,16.484,0.46,us,us7000hi7i,2022-06-17T20:46:57.040Z,"western Indian-Antarctic Ridge",earthquake,9,1.9,0.153,14,reviewed,us,us
-2022-06-17T18:55:50.670Z,38.8246667,-122.7858333,2.06,0.18,md,25,40,0.01208,0.04,nc,nc73746811,2022-06-18T04:18:16.324Z,"5km W of Cobb, CA",earthquake,0.18,0.32,0.202,4,reviewed,nc,nc
