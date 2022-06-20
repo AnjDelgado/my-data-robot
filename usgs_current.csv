@@ -39,7 +39,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-20T08:35:09.810Z,37.6358337,-118.8808365,-0.91,1.55,md,7,145,0.01531,0.08,nc,nc73748001,2022-06-20T09:25:12.516Z,"9km E of Mammoth Lakes, CA",earthquake,0.45,0.37,0.07,8,automatic,nc,nc
 2022-06-20T08:32:23.210Z,37.6388321,-118.8853302,-0.57,2.15,md,15,99,0.01888,0.06,nc,nc73747996,2022-06-20T09:14:13.452Z,"8km E of Mammoth Lakes, CA",earthquake,0.4,0.26,0.18,15,automatic,nc,nc
 2022-06-20T08:32:04.450Z,38.8313332,-122.8138351,1.51,1.35,md,26,43,0.008454,0.04,nc,nc73747991,2022-06-20T09:14:13.585Z,"8km NW of The Geysers, CA",earthquake,0.18,0.35,0.06,6,automatic,nc,nc
-2022-06-20T08:30:04.470Z,37.6398315,-118.8901672,-0.75,1.95,md,16,96,0.006983,0.07,nc,nc73747986,2022-06-20T09:01:14.373Z,"8km E of Mammoth Lakes, CA",earthquake,0.34,0.19,0.23,16,automatic,nc,nc
+2022-06-20T08:30:04.470Z,37.6398315,-118.8901672,-0.75,1.95,md,16,96,0.006983,0.07,nc,nc73747986,2022-06-20T11:54:12.374Z,"8km E of Mammoth Lakes, CA",earthquake,0.34,0.19,0.23,16,automatic,nc,nc
 2022-06-20T08:29:03.120Z,37.6416664,-118.8861694,-0.51,1.91,md,12,155,0.02039,0.01,nc,nc73747981,2022-06-20T11:27:13.199Z,"8km E of Mammoth Lakes, CA",earthquake,0.33,0.19,0.12,13,automatic,nc,nc
 2022-06-20T08:28:04.630Z,36.145,-118.5048333,12.13,1.58,ml,7,191,0.3738,0.11,ci,ci40287696,2022-06-20T08:31:45.321Z,"44km N of Kernville, CA",earthquake,1.47,31.61,0.318,18,automatic,ci,ci
 2022-06-20T08:27:36.920Z,37.6401672,-118.8896637,-0.5,2.71,md,20,80,0.007086,0.05,nc,nc73747976,2022-06-20T11:39:10.263Z,"8km E of Mammoth Lakes, CA",earthquake,0.28,0.2,0.08,22,automatic,nc,nc
@@ -262,5 +262,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-19T12:38:26.847Z,-22.5266,-174.7607,10,4.8,mb,,116,8.257,0.52,us,us7000hija,2022-06-19T13:22:09.040Z,"133 km S of ‘Ohonua, Tonga",earthquake,9.1,1.8,0.085,43,reviewed,us,us
 2022-06-19T12:17:07.605Z,36.3312,-116.2903,2.9,1.2,ml,18,99.49,0.122,0.1753,nn,nn00841202,2022-06-19T12:20:19.525Z,"30 km WNW of Pahrump, Nevada",earthquake,,1.2,0.87,12,automatic,nn,nn
 2022-06-19T12:08:33.976Z,62.1834,-148.5987,29.1,1.1,ml,,,,0.33,ak,ak0227tcjzk5,2022-06-19T12:10:29.239Z,"43 km N of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-06-19T11:55:53.070Z,19.1833324432373,-155.483673095703,33.8899993896484,1.86000001,md,35,75,,0.109999999,hv,hv73048702,2022-06-19T11:59:14.100Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.51,0.790000021,0.379999995,5,automatic,hv,hv
-2022-06-19T11:55:10.940Z,43.9766667,-110.3016667,7.79,1.46,ml,20,162,0.205,0.28,mb,mb80549249,2022-06-19T14:29:43.180Z,"47 km NNE of Kelly, Wyoming",earthquake,0.71,2.06,0.174,9,reviewed,mb,mb
