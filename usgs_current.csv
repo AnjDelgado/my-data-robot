@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-06-21T11:45:35.640Z,38.8323326,-122.7994995,1.5,0.85,md,7,96,0.009378,0.03,nc,nc73748991,2022-06-21T11:47:12.190Z,"7km W of Cobb, CA",earthquake,0.42,1.22,,1,automatic,nc,nc
+2022-06-21T11:45:35.640Z,38.8323326,-122.7994995,1.5,0.85,md,7,96,0.009378,0.03,nc,nc73748991,2022-06-21T11:54:11.095Z,"7km W of Cobb, CA",earthquake,0.42,1.22,,1,automatic,nc,nc
 2022-06-21T11:03:08.824Z,38.2507,-117.8981,11.1,0.9,ml,8,196.86,0.086,0.0756,nn,nn00841374,2022-06-21T11:07:49.672Z,"24 km SE of Mina, Nevada",earthquake,,1.6,0.44,4,automatic,nn,nn
 2022-06-21T11:02:30.690Z,38.281,-117.8563,0,1.1,ml,15,151.61,0.13,0.2182,nn,nn00841371,2022-06-21T11:06:22.337Z,"25 km ESE of Mina, Nevada",earthquake,,5.3,0.26,9,automatic,nn,nn
 2022-06-21T10:58:15.540Z,59.4106,-151.9987,53.1,2,ml,,,,0.47,ak,ak0227wmqhpu,2022-06-21T11:00:40.403Z,"Kenai Peninsula, Alaska",earthquake,,0.5,,,automatic,ak,ak
