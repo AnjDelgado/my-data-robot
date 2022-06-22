@@ -3,7 +3,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-22T11:35:40.895Z,61.6952,-150.1226,24.8,1.6,ml,,,,0.49,ak,ak0227yaqeah,2022-06-22T11:37:49.389Z,"7 km SW of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-06-22T11:31:52.090Z,19.1811676025391,-155.496673583984,35.0299987792969,2.1500001,md,43,81,,0.150000006,hv,hv73051672,2022-06-22T11:34:59.030Z,"3 km SW of Pāhala, Hawaii",earthquake,0.61,1.01999998,0.349999994,21,automatic,hv,hv
 2022-06-22T11:30:15.360Z,37.640667,-118.8919983,-0.28,1.28,md,8,153,0.005346,0.03,nc,nc73749476,2022-06-22T11:37:10.712Z,"8km E of Mammoth Lakes, CA",earthquake,0.58,0.3,0.07,8,automatic,nc,nc
-2022-06-22T11:29:23.380Z,37.6383324,-118.8916702,-0.16,1.64,md,16,122,0.007309,0.03,nc,nc73749471,2022-06-22T11:37:10.834Z,"8km E of Mammoth Lakes, CA",earthquake,0.37,0.22,0.27,16,automatic,nc,nc
+2022-06-22T11:29:23.380Z,37.6383324,-118.8916702,-0.16,1.64,md,16,122,0.007309,0.03,nc,nc73749471,2022-06-22T11:46:14.773Z,"8km E of Mammoth Lakes, CA",earthquake,0.37,0.22,0.27,16,automatic,nc,nc
 2022-06-22T11:22:56.411Z,62.211,-149.4426,30.3,1.3,ml,,,,0.96,ak,ak0227yann6x,2022-06-22T11:25:00.778Z,"21 km ENE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-06-22T11:11:14.110Z,32.6573333,-115.7328333,7.53,1.55,ml,17,51,0.009661,0.17,ci,ci40288952,2022-06-22T11:15:02.263Z,"16km WNW of Progreso, B.C., MX",earthquake,0.35,0.41,0.234,21,automatic,ci,ci
 2022-06-22T11:03:56.741Z,-53.1062,139.798,10,4.6,mb,,105,11.371,0.8,us,us7000hj9x,2022-06-22T11:22:22.040Z,"west of Macquarie Island",earthquake,14.1,1.9,0.125,19,reviewed,us,us
