@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-06-23T21:38:19.520Z,38.7900009,-122.8069992,3.26,0.7,md,17,116,0.003497,0.03,nc,nc73750091,2022-06-23T21:39:54.918Z,"5km WNW of The Geysers, CA",earthquake,0.33,0.79,0.1,2,automatic,nc,nc
+2022-06-23T21:38:19.520Z,38.7900009,-122.8069992,3.26,0.7,md,17,116,0.003497,0.03,nc,nc73750091,2022-06-23T21:49:10.226Z,"5km WNW of The Geysers, CA",earthquake,0.33,0.79,0.1,2,automatic,nc,nc
 2022-06-23T21:36:23.393Z,36.7145,-116.3278,9.5,0.8,ml,20,69.64,0.059,0.1773,nn,nn00841584,2022-06-23T21:39:18.766Z,"44 km ESE of Beatty, Nevada",earthquake,,0.7,0.94,13,automatic,nn,nn
 2022-06-23T21:24:42.715Z,38.1822,-117.8581,13.4,2.3,ml,18,144.13,0.091,0.1787,nn,nn00841579,2022-06-23T21:28:51.729Z,"31 km SE of Mina, Nevada",earthquake,,0.3,0.87,12,automatic,nn,nn
 2022-06-23T21:21:23.303Z,59.6879,-152.4754,77.6,1.2,ml,,,,0.46,ak,ak02280451gq,2022-06-23T21:23:35.865Z,"37 km WSW of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
