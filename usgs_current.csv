@@ -36,7 +36,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-25T13:34:35.483Z,23.6479,121.4547,10,4.9,mb,,100,0.292,0.97,us,us7000hk6u,2022-06-25T16:48:55.040Z,"39 km SSW of Hualien City, Taiwan",earthquake,2.5,1.9,0.065,74,reviewed,us,us
 2022-06-25T13:28:29.680Z,19.2281665802002,-155.399002075195,30.9699993133545,1.99,ml,39,143,,0.140000001,hv,hv73055142,2022-06-25T13:34:00.160Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.6,0.889999986,4.57,4,automatic,hv,hv
 2022-06-25T13:28:01.970Z,47.57633333333333,-122.61883333333333,31.38,1.06,ml,15,111,0.1162,0.29,uw,uw61846097,2022-06-25T14:12:48.040Z,"1 km NE of Bremerton, Washington",earthquake,0.79,1.27,0.1706364607477393,4,reviewed,uw,uw
-2022-06-25T13:24:26.400Z,19.2343330383301,-155.395172119141,31.25,2.65,ml,47,141,,0.140000001,hv,hv73055137,2022-06-25T13:29:56.900Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.53,0.689999998,3.74,25,automatic,hv,hv
+2022-06-25T13:24:26.400Z,19.2343330383301,-155.395172119141,31.25,2.65,ml,47,141,,0.140000001,hv,hv73055137,2022-06-25T18:54:29.040Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.53,0.689999998,3.74,25,automatic,hv,hv
 2022-06-25T13:11:34.490Z,47.54983333333333,-122.5905,25.31,0.88,ml,8,250,0.1321,0.15,uw,uw61502173,2022-06-25T15:37:23.650Z,"2 km NE of Parkwood, Washington",earthquake,0.97,1.39,0.1625975059984155,2,reviewed,uw,uw
 2022-06-25T13:10:46.036Z,62.7804,-148.3175,50.5,1.1,ml,,,,0.54,ak,ak02283adyhn,2022-06-25T13:12:48.854Z,"75 km SSE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-06-25T13:10:08.590Z,47.558166666666665,-122.6425,28.76,0.64,md,8,231,0.09729,0.2,uw,uw61502168,2022-06-25T15:35:28.000Z,"1 km SW of Bremerton, Washington",earthquake,1.03,1.32,0.21206411518486523,6,reviewed,uw,uw
@@ -87,6 +87,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-25T10:23:18.880Z,33.667,-116.7231667,14.41,0.36,ml,11,93,0.04469,0.11,ci,ci40291152,2022-06-25T10:26:52.765Z,"8km S of Idyllwild, CA",earthquake,0.39,0.68,0.135,6,automatic,ci,ci
 2022-06-25T10:22:28.327Z,37.4201,-116.7965,0,1.2,ml,26,163.68,0.282,0.2972,nn,nn00841707,2022-06-25T10:26:06.711Z,"50 km SE of Goldfield, Nevada",earthquake,,17.7,0.71,17,automatic,nn,nn
 2022-06-25T10:19:05.540Z,48.059,-115.2588333,4.19,0.71,ml,5,120,0.379,0.2,mb,mb80549794,2022-06-25T13:37:55.420Z,"9 km WSW of Happys Inn, Montana",earthquake,0.72,14.1,0.223,3,reviewed,mb,mb
+2022-06-25T10:11:08.150Z,37.6356667,-118.8748333,-0.39,0.28,md,8,151,0.01913,0.03,nc,nc73750791,2022-06-25T18:54:51.961Z,"9km E of Mammoth Lakes, CA",earthquake,0.4,0.54,0.252,7,reviewed,nc,nc
 2022-06-25T10:07:20.620Z,32.8535,-116.1718333,7.26,0.95,ml,10,125,0.08793,0.15,ci,ci40291144,2022-06-25T10:11:00.670Z,"21km NW of Ocotillo, CA",earthquake,0.4,1.12,0.076,9,automatic,ci,ci
 2022-06-25T09:52:40.210Z,37.6406667,-118.9023333,5.37,0.9,md,20,57,0.005735,0.03,nc,nc73750781,2022-06-25T18:31:09.594Z,"7km E of Mammoth Lakes, CA",earthquake,0.33,0.65,0.199,18,reviewed,nc,nc
 2022-06-25T09:49:53.444Z,60.1243,-152.5302,91.3,1.2,ml,,,,0.34,ak,ak0228388lkg,2022-06-25T09:51:42.146Z,"48 km WNW of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -244,5 +245,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-24T19:07:42.289Z,62.9185,-151.3171,106.7,2.3,ml,,,,0.39,ak,ak02281qek64,2022-06-24T20:56:44.040Z,"54 km NNW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-06-24T19:04:08.270Z,58.2901,-155.8638,0,2,ml,,,,1.56,ak,ak02281qduez,2022-06-24T19:06:36.657Z,"64 km SE of King Salmon, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-06-24T19:02:40.430Z,46.007,-112.4603333,-2,1.67,ml,13,112,0.066,0.12,mb,mb80549744,2022-06-24T19:27:26.840Z,"5 km E of Butte, Montana",quarry blast,0.43,31.61,0.227,11,reviewed,mb,mb
-2022-06-24T18:56:33.861Z,-1.8521,100.4047,49.4,5.1,mb,,58,2.254,0.81,us,us7000hk0k,2022-06-24T20:18:12.040Z,"99 km S of Padang, Indonesia",earthquake,7.6,2.9,0.052,119,reviewed,us,us
-2022-06-24T18:55:10.250Z,34.9916667,-118.1823333,-0.82,1.12,ml,18,59,0.1188,0.2,ci,ci40290744,2022-06-24T21:41:12.757Z,"7km S of Mojave, CA",quarry blast,0.41,31.61,0.147,11,reviewed,ci,ci
