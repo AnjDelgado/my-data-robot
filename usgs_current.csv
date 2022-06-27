@@ -84,6 +84,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-27T13:02:30.880Z,38.7891655,-122.760498,1.36,1.42,md,24,64,0.01146,0.05,nc,nc73751631,2022-06-27T14:38:10.136Z,"1km NNW of The Geysers, CA",earthquake,0.24,0.39,0.05,7,automatic,nc,nc
 2022-06-27T12:49:52.220Z,38.8296661,-122.8105011,2.1,0.71,md,15,61,0.006271,0.02,nc,nc73751626,2022-06-27T14:13:09.992Z,"8km NW of The Geysers, CA",earthquake,0.28,0.51,0.15,4,automatic,nc,nc
 2022-06-27T12:43:54.410Z,34.3763333,-116.9871667,9.07,1.62,ml,52,43,0.08207,0.19,ci,ci40292216,2022-06-27T12:54:34.060Z,"8km SSW of Lucerne Valley, CA",earthquake,0.24,0.57,0.221,29,automatic,ci,ci
+2022-06-27T12:41:53.453Z,38.5755,-118.5017,6.2,-0.4,ml,5,207.57,0.055,0.0247,nn,nn00841812,2022-06-27T20:51:47.189Z,"12 km ENE of Hawthorne, Nevada",earthquake,,13.5,0,1,reviewed,nn,nn
 2022-06-27T12:36:33.744Z,60.9434,-151.0881,9.3,1.2,ml,,,,0.41,ak,ak02286l0rji,2022-06-27T12:39:21.520Z,"14 km S of Tyonek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-06-27T12:09:19.590Z,33.3801667,-116.8761667,5.11,1.39,ml,50,37,0.0288,0.22,ci,ci40292208,2022-06-27T12:20:24.760Z,"3km NNW of Palomar Observatory, CA",earthquake,0.23,0.92,0.131,25,automatic,ci,ci
 2022-06-27T11:58:29.983Z,38.0435,-118.7808,9.4,0.4,ml,7,332.89,0.301,0.0907,nn,nn00841811,2022-06-27T20:48:40.620Z,"31 km ENE of Lee Vining, California",earthquake,,22.8,0.25,2,reviewed,nn,nn
@@ -224,4 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-26T21:14:08.291Z,-21.4915,-66.7368,240.6,4.1,mb,,45,2.35,0.7,us,us7000hkfu,2022-06-26T23:34:29.040Z,"81 km SW of Atocha, Bolivia",earthquake,7.8,7.3,0.214,6,reviewed,us,us
 2022-06-26T21:03:00.800Z,38.8216667,-122.8044968,2.55,0.71,md,19,43,0.004686,0.02,nc,nc73751461,2022-06-26T22:00:13.255Z,"6km NW of The Geysers, CA",earthquake,0.24,0.53,0.14,2,automatic,nc,nc
 2022-06-26T20:58:04.200Z,43.719,-121.243,8,0.16,ml,8,120,0.007722,0.28,uw,uw61846522,2022-06-27T04:10:39.720Z,"21 km ESE of Three Rivers, Oregon",earthquake,1.62,1.66,0.07031147425914061,6,reviewed,uw,uw
-2022-06-26T20:51:53.500Z,38.8019981,-122.7815018,2.36,0.84,md,20,77,0.01013,0.02,nc,nc73751456,2022-06-26T21:28:14.054Z,"4km NW of The Geysers, CA",earthquake,0.25,0.47,0.22,3,automatic,nc,nc
