@@ -249,4 +249,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-28T10:03:16.050Z,38.8358345,-122.7923355,2.2,1.17,md,10,58,0.003005,0.01,nc,nc73751986,2022-06-28T12:17:20.800Z,"6km WNW of Cobb, CA",earthquake,0.41,1.32,,1,automatic,nc,nc
 2022-06-28T10:01:25.120Z,46.8951667,-112.5155,14.15,0.81,ml,10,68,0.054,0.15,mb,mb80549989,2022-06-28T13:50:23.340Z,"14 km ESE of Lincoln, Montana",earthquake,0.5,0.75,0.214,6,reviewed,mb,mb
 2022-06-28T09:52:56.910Z,19.2329998016357,-155.42366027832,35.6199989318848,2.25,ml,36,127,,0.140000001,hv,hv73058857,2022-06-28T09:58:27.840Z,"6 km ENE of Pāhala, Hawaii",earthquake,0.57,0.720000029,0.72,3,automatic,hv,hv
-2022-06-28T09:49:05.179Z,36.29516667,-98.17766667,7.81,1.31,ml,86,83,0.04229170093,0.2,ok,ok2022mnyz,2022-06-28T13:26:28.155Z,"5 km N of Ames, Oklahoma",earthquake,,0.4,0.23,34,reviewed,ok,ok
