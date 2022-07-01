@@ -3,7 +3,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-30T23:00:47.590Z,19.2520008087158,-155.379837036133,30.1299991607666,1.99000001,md,21,138,,0.180000007,hv,hv73061187,2022-06-30T23:03:58.110Z,"11 km ENE of Pāhala, Hawaii",earthquake,1.05,0.819999993,0.99000001,3,automatic,hv,hv
 2022-06-30T22:54:40.140Z,33.9561667,-117.7975,7.95,0.77,ml,15,144,0.02849,0.15,ci,ci40294520,2022-06-30T23:50:04.961Z,"6km SW of Chino Hills, CA",earthquake,0.66,0.47,0.1,9,reviewed,ci,ci
 2022-06-30T22:52:52.920Z,38.7955017,-122.793663,2.94,0.9,md,24,65,0.005053,0.02,nc,nc73753026,2022-06-30T23:16:14.312Z,"4km WNW of The Geysers, CA",earthquake,0.27,0.48,0.26,4,automatic,nc,nc
-2022-06-30T22:50:28.480Z,38.809166,-122.7728348,1.2,1.18,md,23,79,0.00737,0.03,nc,nc73753021,2022-06-30T23:53:18.510Z,"4km NNW of The Geysers, CA",earthquake,0.21,0.39,0.06,5,automatic,nc,nc
+2022-06-30T22:50:28.480Z,38.809166,-122.7728348,1.2,1.18,md,23,79,0.00737,0.03,nc,nc73753021,2022-06-30T23:57:10.534Z,"4km NNW of The Geysers, CA",earthquake,0.21,0.39,0.06,5,automatic,nc,nc
 2022-06-30T22:43:49.975Z,67.7035,-158.7381,6.2,1.4,ml,,,,0.9,ak,ak0228bpmoia,2022-06-30T22:46:46.437Z,"78 km NNW of Ambler, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-06-30T22:39:21.027Z,61.2621,-147.5074,15.1,1.3,ml,,,,0.67,ak,ak0228bplr8n,2022-06-30T22:42:05.342Z,"61 km S of Glacier View, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-06-30T22:33:10.982Z,65.0086,-147.1046,0,1.4,ml,,,,1.05,ak,ak0228bpkg61,2022-06-30T22:36:11.898Z,"15 km NNW of Two Rivers, Alaska",earthquake,,14.4,,,automatic,ak,ak
@@ -252,5 +252,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-30T00:03:04.230Z,38.1855,-112.5726667,8.6,2.18,ml,28,45,0.322,0.2,uu,uu60503962,2022-06-30T13:23:37.430Z,"11 km SSE of Beaver, Utah",earthquake,0.33,0.96,0.184,17,reviewed,uu,uu
 2022-06-30T00:01:47.260Z,35.4016667,-118.6496667,5.59,1.78,ml,31,39,0.1204,0.17,ci,ci40293944,2022-06-30T17:49:16.810Z,"25km SW of Bodfish, CA",earthquake,0.19,1.26,0.22,22,reviewed,ci,ci
 2022-06-30T00:00:20.897Z,63.2261,-150.9371,24.6,1.3,ml,,,,1.34,ak,ak0228bc9uzt,2022-06-30T00:03:20.020Z,"52 km SE of Denali National Park, Alaska",earthquake,,1.7,,,automatic,ak,ak
-2022-06-29T23:58:07.480Z,40.297,-124.5476667,19.42,2.01,md,17,267,0.1571,0.11,nc,nc73752701,2022-06-30T02:32:10.619Z,"22km W of Petrolia, CA",earthquake,0.49,0.63,0.227,15,reviewed,nc,nc
-2022-06-29T23:54:59.430Z,37.6573333,-118.9043333,-0.74,0.28,md,8,146,0.002705,0.04,nc,nc73752696,2022-06-30T00:59:20.118Z,"7km ENE of Mammoth Lakes, CA",earthquake,0.35,0.23,0.181,6,reviewed,nc,nc
