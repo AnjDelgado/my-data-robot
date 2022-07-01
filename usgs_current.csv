@@ -233,6 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-30T19:35:43.759Z,-38.3064,176.1775,161.24,4.5,mb,16,96,0.701,0.45,us,us6000hyx7,2022-07-01T15:07:04.040Z,"19 km SSW of Rotorua, New Zealand",earthquake,8.1,6.8,0.314,3,reviewed,us,us
 2022-06-30T19:30:47.230Z,33.7461667,-116.0386667,2.71,0.98,ml,23,109,0.0994,0.12,ci,ci40294424,2022-06-30T20:15:20.571Z,"14km ENE of Coachella, CA",earthquake,0.19,0.37,0.157,23,reviewed,ci,ci
 2022-06-30T19:29:08.420Z,18.5928,-68.4653,94,3.69,md,16,224,0.1152,0.1,pr,pr2022181000,2022-07-01T14:57:00.040Z,"6 km W of Punta Cana, Dominican Republic",earthquake,11.73,1.44,0.17,15,reviewed,pr,pr
-2022-06-30T19:25:58.860Z,46.1985,-122.188,4.06,0.06,ml,8,180,0.002362,0.07,uw,uw61847972,2022-06-30T23:12:12.640Z,"37 km NNE of Amboy, Washington",earthquake,0.58,1.73,0.22087848137103538,4,reviewed,uw,uw
-2022-06-30T19:25:48.411Z,31.68476769,-104.4472177,6.054443359000001,2.1,ml,9,99,0.04843921384,0.3,tx,tx2022msja,2022-07-01T13:47:15.893Z,"54 km S of Whites City, New Mexico",earthquake,2.2587615090000006,2.155244247,0.2,5,reviewed,tx,tx
-2022-06-30T19:23:52.710Z,33.3788333,-116.8903333,7.17,0.88,ml,32,43,0.0342,0.17,ci,ci40294416,2022-06-30T19:57:13.533Z,"4km NW of Palomar Observatory, CA",earthquake,0.22,0.36,0.116,21,reviewed,ci,ci
