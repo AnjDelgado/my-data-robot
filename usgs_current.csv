@@ -228,4 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-07T12:18:13.492Z,31.66015968,-104.2639799,5.128955078,2.3,ml,13,66,0.1944853333,0.2,tx,tx2022nepl,2022-07-07T19:34:36.791Z,"58 km S of Whites City, New Mexico",earthquake,1.5060843180000003,3.294768917,0.2,6,reviewed,tx,tx
 2022-07-07T12:03:16.896Z,31.66177338,-104.5740284,5.128955078,2,ml,10,81,0.06283096396,0.2,tx,tx2022neoy,2022-07-07T19:55:09.796Z,"59 km SSW of Whites City, New Mexico",earthquake,2.149096223,1.925913634,0.1,6,reviewed,tx,tx
 2022-07-07T11:53:39.812Z,61.8004,-149.9249,112.4,1.1,ml,,,,1.05,ak,ak0228n3wgil,2022-07-07T11:55:43.879Z,"8 km NE of Willow, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2022-07-07T11:44:06.820Z,19.4105,-155.631833333333,-0.15,2.19,md,29,88,,0.19,hv,hv73067787,2022-07-08T00:20:54.920Z,"24 km ESE of Honaunau-Napoopoo, Hawaii",earthquake,0.35,0.43,0.0734771896913575,12,reviewed,hv,hv
