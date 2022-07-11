@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-11T19:26:59.330Z,36.4496667,-120.9953333,-0.52,0.94,md,7,107,0.03145,0.11,nc,nc73757531,2022-07-11T19:47:42.569Z,"16km SE of Pinnacles, CA",earthquake,0.72,0.87,0.191,7,reviewed,nc,nc
 2022-07-11T19:17:32.720Z,37.5491667,-118.926,5.04,0.54,md,13,168,0.06341,0.09,nc,nc73757526,2022-07-11T19:40:11.830Z,"11km SSE of Mammoth Lakes, CA",earthquake,0.45,1.64,0.121,9,reviewed,nc,nc
+2022-07-11T19:00:48.630Z,46.0061667,-112.4616667,-2,1.65,ml,14,112,0.065,0.1,mb,mb80551094,2022-07-11T19:47:56.200Z,"5 km E of Butte, Montana",quarry blast,0.39,31.61,0.148,8,reviewed,mb,mb
 2022-07-11T18:56:57.090Z,34.9871667,-118.1996667,0.26,1.54,ml,16,58,0.1107,0.29,ci,ci40302000,2022-07-11T19:00:42.037Z,"8km SSW of Mojave, CA",earthquake,0.51,31.61,0.152,32,automatic,ci,ci
 2022-07-11T18:54:11.090Z,37.5851667,-118.9055,7.61,0.22,md,8,259,0.028,0.01,nc,nc73757521,2022-07-11T19:31:14.645Z,"9km SE of Mammoth Lakes, CA",earthquake,0.62,0.63,0.071,6,reviewed,nc,nc
 2022-07-11T18:44:30.390Z,35.0473333,-118.3385,0.27,1.13,ml,14,73,0.05666,0.22,ci,ci40301992,2022-07-11T18:48:38.494Z,"14km SE of Tehachapi, CA",earthquake,0.53,31.61,0.131,22,automatic,ci,ci
