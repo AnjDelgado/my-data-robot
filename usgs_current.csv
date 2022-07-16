@@ -4,7 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-16T17:31:51.925Z,35.989048,-96.79753876,1.693925142,2.29,ml,45,59.37434006,0.006228655577,0.5839501596,ok,ok2022nvlh,2022-07-16T17:50:09.774Z,"2 km W of Cushing, Oklahoma",earthquake,1.759959946,1.477280467,,35,automatic,ok,ok
 2022-07-16T17:12:48.410Z,33.256,-116.1055,2.56,0.87,ml,16,55,0.1351,0.27,ci,ci40064687,2022-07-16T17:16:19.190Z,"13km N of Ocotillo Wells, CA",earthquake,0.46,0.88,0.119,18,automatic,ci,ci
 2022-07-16T17:03:49.816Z,62.3794,-153.0939,0,1.2,ml,,,,0.74,ak,ak0229230hk5,2022-07-16T17:05:50.563Z,"96 km SE of Nikolai, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-07-16T17:03:27.384Z,31.6523,-104.3629,5,3.2,ml,33,110,0.118,0.34,us,us6000i32c,2022-07-16T17:17:52.040Z,"58 km S of Whites City, New Mexico",earthquake,0.8,1.9,0.056,105,reviewed,us,us
+2022-07-16T17:03:27.358Z,31.65887722,-104.3654279,7.57121582,3.4,ml,22,79,0.08664910898,0.2,tx,tx2022nvkk,2022-07-16T17:56:41.858Z,"57 km S of Whites City, New Mexico",earthquake,1.021386184,1.25806629,0.2,15,reviewed,tx,tx
 2022-07-16T16:49:56.060Z,38.7874985,-122.723999,1.68,0.67,md,12,86,0.01082,0.02,nc,nc73759341,2022-07-16T17:44:10.169Z,"3km ENE of The Geysers, CA",earthquake,0.31,0.89,0.16,2,automatic,nc,nc
 2022-07-16T16:27:52.693Z,63.1142,-150.4736,112.5,2,ml,,,,0.35,ak,ak022922k7bh,2022-07-16T16:29:30.300Z,"70 km NNE of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-07-16T16:20:14.810Z,66.7173,-148.4774,0,1.8,ml,,,,0.82,ak,ak022922imfd,2022-07-16T16:22:49.296Z,"62 km NW of Beaver, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -100,7 +100,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-16T06:51:53.494Z,62.9791,-148.5384,76,1.4,ml,,,,0.61,ak,ak02291wr0k5,2022-07-16T06:54:37.068Z,"50 km SSE of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-07-16T06:45:44.670Z,60.8433,-149.8142,34.4,2,ml,,,,0.37,ak,ak02291wppkz,2022-07-16T06:47:13.979Z,"Kenai Peninsula, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-07-16T06:44:21.350Z,38.7773323,-122.7689972,-0.89,0.83,md,8,145,0.007074,0.1,nc,nc73759211,2022-07-16T07:06:19.358Z,"1km W of The Geysers, CA",earthquake,0.44,3.61,0.22,3,automatic,nc,nc
-2022-07-16T06:43:02.599Z,40.0994,-119.4942,0,1.2,ml,11,147.11,0.195,0.2524,nn,nn00843027,2022-07-16T06:46:35.809Z,"18 km NNE of Sutcliffe, Nevada",earthquake,,7.6,0.2,8,automatic,nn,nn
+2022-07-16T06:43:03.879Z,40.0898,-119.4979,12,1.1,ml,8,143.9,0.196,0.228,nn,nn00843027,2022-07-16T17:55:47.906Z,"17 km NNE of Sutcliffe, Nevada",earthquake,,2.9,0.31,5,reviewed,nn,nn
 2022-07-16T06:38:23.140Z,38.5358315,-119.5156631,6.44,1.97,md,8,115,0.06844,0.05,nc,nc73759206,2022-07-16T17:52:36.696Z,"4km NW of Walker, CA",earthquake,0.54,1.02,0.18,4,automatic,nc,nc
 2022-07-16T06:30:14.940Z,35.7121667,-117.5768333,8.23,1.29,ml,18,145,0.1047,0.17,ci,ci40064303,2022-07-16T06:34:00.001Z,"14km NE of Ridgecrest, CA",earthquake,0.47,0.99,0.111,16,automatic,ci,ci
 2022-07-16T06:21:17.470Z,33.2326667,-116.1033333,7.55,1.47,ml,43,52,0.09394,0.23,ci,ci40064295,2022-07-16T06:32:02.190Z,"10km NNE of Ocotillo Wells, CA",earthquake,0.28,0.99,0.111,27,automatic,ci,ci
