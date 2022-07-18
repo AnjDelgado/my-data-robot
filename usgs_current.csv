@@ -1,6 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-18T06:30:38.971Z,38.1876,-117.7569,9.3,0.8,ml,9,195.01,0.117,0.0664,nn,nn00843144,2022-07-18T06:35:08.333Z,"38 km SE of Mina, Nevada",earthquake,,1.1,0.05,5,automatic,nn,nn
+2022-07-18T06:30:23.420Z,38.8224983,-122.8228302,0.83,2.14,md,38,45,0.00955,0.05,nc,nc73760111,2022-07-18T06:41:10.773Z,"8km NW of The Geysers, CA",earthquake,0.15,0.23,0.09,14,automatic,nc,nc
+2022-07-18T06:27:14.130Z,38.8180008,-122.824501,2.7,0.76,md,18,55,0.009682,0.02,nc,nc73760106,2022-07-18T06:41:10.891Z,"7km NW of The Geysers, CA",earthquake,0.28,0.63,0.49,2,automatic,nc,nc
+2022-07-18T06:20:46.630Z,36.260334,-120.8291702,9.38,1.24,md,12,140,0.04975,0.07,nc,nc73760101,2022-07-18T06:37:10.750Z,"22km SW of New Idria, CA",earthquake,0.36,0.59,0.25,5,automatic,nc,nc
+2022-07-18T06:19:05.410Z,33.1765,-116.0073333,2.73,1.19,ml,32,53,0.025,0.26,ci,ci40065671,2022-07-18T06:22:52.925Z,"12km ENE of Ocotillo Wells, CA",earthquake,0.38,0.64,0.146,22,automatic,ci,ci
+2022-07-18T06:18:07.480Z,33.4218333,-116.9166667,10.43,0.76,ml,28,38,0.1017,0.19,ci,ci40065663,2022-07-18T06:21:36.108Z,"5km WSW of Aguanga, CA",earthquake,0.28,0.83,0.13,19,automatic,ci,ci
 2022-07-18T06:10:07.563Z,38.5075,-119.5358,5.2,1.2,ml,10,93.38,0.076,0.1147,nn,nn00843141,2022-07-18T06:13:09.578Z,"5 km W of Walker, California",earthquake,,0.9,0.02,7,automatic,nn,nn
-2022-07-18T06:08:20.910Z,38.8171654,-122.8243332,2.33,1.56,md,21,51,0.009109,0.02,nc,nc73760091,2022-07-18T06:18:11.632Z,"7km NW of The Geysers, CA",earthquake,0.22,0.46,0.14,3,automatic,nc,nc
+2022-07-18T06:08:20.910Z,38.8171654,-122.8243332,2.33,1.56,md,21,51,0.009109,0.02,nc,nc73760091,2022-07-18T06:30:13.708Z,"7km NW of The Geysers, CA",earthquake,0.22,0.46,0.14,3,automatic,nc,nc
 2022-07-18T06:02:08.160Z,38.8376656,-122.7856674,1.78,0.73,md,16,81,0.003727,0.02,nc,nc73760086,2022-07-18T06:19:13.639Z,"6km WNW of Cobb, CA",earthquake,0.28,0.46,0.14,2,automatic,nc,nc
 2022-07-18T05:49:34.400Z,17.9813333333333,-66.8518333333333,12.9,2.54,md,23,167,,0.1,pr,pr71360093,2022-07-18T06:13:28.700Z,"Puerto Rico region",earthquake,0.42,0.25,0.202612757199761,14,reviewed,pr,pr
 2022-07-18T05:47:58.157Z,60.4903,-152.0769,84.4,1.8,ml,,,,0.2,ak,ak0229577ffr,2022-07-18T05:50:07.732Z,"43 km WSW of Salamatof, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -269,9 +275,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-17T06:51:02.098Z,38.7053,-116.0813,1,1.5,ml,9,168.85,1.394,0.2441,nn,nn00843082,2022-07-17T06:55:41.221Z,"90 km S of Eureka, Nevada",earthquake,,10.7,0.27,4,automatic,nn,nn
 2022-07-17T06:48:19.570Z,33.5636667,-116.6136667,12.7,0.95,ml,22,55,0.03745,0.18,ci,ci40064991,2022-07-17T13:31:08.754Z,"6km E of Anza, CA",earthquake,0.34,0.55,0.183,6,reviewed,ci,ci
 2022-07-17T06:45:34.880Z,17.9518333333333,-66.9821666666667,11.75,1.97,md,7,211,,0.08,pr,pr71359943,2022-07-17T07:36:49.090Z,"7 km ESE of La Parguera, Puerto Rico",earthquake,0.54,0.33,0.185851090257482,7,reviewed,pr,pr
-2022-07-17T06:33:03.246Z,31.61402082,-104.1119231,6.877099609,2,ml,12,78,0.09338309953,0.3,tx,tx2022nwlb,2022-07-17T15:26:45.995Z,"western Texas",earthquake,1.544265914,1.601493313,0.2,8,reviewed,tx,tx
-2022-07-17T06:31:50.510Z,37.5618333,-118.861,3.52,0.16,md,8,291,0.03787,0.02,nc,nc73759531,2022-07-17T16:21:16.404Z,"13km SE of Mammoth Lakes, CA",earthquake,1.74,1.46,0.181,6,reviewed,nc,nc
-2022-07-17T06:30:11.487Z,32.69439697,-100.605826,8.632527669,3,ml,14,74,0.1091398086,0.2,tx,tx2022nwkz,2022-07-17T10:56:56.898Z,"15 km ENE of Hermleigh, Texas",earthquake,1.05905651,1.972870663,0.1,11,reviewed,tx,tx
-2022-07-17T06:25:53.019Z,63.36,-151.3058,0,1.3,ml,,,,0.76,ak,ak02293k4sed,2022-07-17T06:27:55.016Z,"28 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-07-17T06:23:50.790Z,33.4153333,-118.0128333,3.62,2.29,ml,42,143,0.2617,0.25,ci,ci40064983,2022-07-17T14:32:32.797Z,"24km SSW of Newport Beach, CA",earthquake,0.57,2,0.158,27,automatic,ci,ci
-2022-07-17T06:21:56.499Z,39.2258,20.8842,10,4.2,mb,70,80,0.945,0.92,us,us6000i36d,2022-07-17T07:28:40.899Z,"2 km N of Filippiáda, Greece",earthquake,5.2,2,0.136,17,reviewed,us,us
