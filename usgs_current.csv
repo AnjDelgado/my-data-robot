@@ -228,5 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-18T00:04:55.332Z,60.2361,-152.6466,102.2,1.6,ml,,,,0.16,ak,ak022953z1el,2022-07-18T00:06:27.505Z,"58 km WNW of Ninilchik, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-07-18T00:04:10.450Z,38.8359985,-122.7996674,2.08,0.36,md,7,95,0.007669,0.01,nc,nc73760041,2022-07-18T01:30:10.796Z,"7km WNW of Cobb, CA",earthquake,0.47,1.98,,1,automatic,nc,nc
 2022-07-18T00:02:53.340Z,48.46066666666667,-123.352,4.99,1.23,ml,10,94,0.1995,0.4,uw,uw61863006,2022-07-18T23:49:24.240Z,"2 km N of Victoria, Canada",earthquake,0.9,25.36,0.07992358976763225,7,reviewed,uw,uw
-2022-07-17T23:56:18.170Z,17.9045,-66.8435,16.65,2.2,md,9,234,,0.16,pr,pr71360038,2022-07-18T00:06:58.080Z,"9 km SSE of Maria Antonia, Puerto Rico",earthquake,0.64,0.66,0.0789179815577352,7,reviewed,pr,pr
-2022-07-17T23:56:15.737Z,59.9967,-153.1916,0,1.5,ml,,,,0.54,ak,ak02293ufq05,2022-07-17T23:57:56.373Z,"56 km ENE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
