@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-07-18T11:38:14.081Z,60.5775,-148.7964,25.2,1.6,ml,,,,0.37,ak,ak02295aq080,2022-07-18T11:40:54.384Z,"22 km SSW of Whittier, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-07-18T11:36:55.660Z,38.8105011,-122.7716675,1.37,0.53,md,11,83,0.007564,0.02,nc,nc73760211,2022-07-18T11:38:28.442Z,"4km NNW of The Geysers, CA",earthquake,0.41,0.72,0.37,2,automatic,nc,nc
+2022-07-18T11:36:55.660Z,38.8105011,-122.7716675,1.37,0.53,md,11,83,0.007564,0.02,nc,nc73760211,2022-07-18T11:46:11.637Z,"4km NNW of The Geysers, CA",earthquake,0.41,0.72,0.37,2,automatic,nc,nc
 2022-07-18T11:34:25.281Z,63.3071,-151.1086,3.2,2.6,ml,,,,0.73,ak,ak02295ap680,2022-07-18T11:42:00.040Z,"40 km SE of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-07-18T11:32:56.680Z,38.8443336,-122.879837,2.52,0.8,md,18,102,0.006723,0.04,nc,nc73760206,2022-07-18T11:42:09.611Z,"13km ENE of Cloverdale, CA",earthquake,0.34,0.53,0.08,3,automatic,nc,nc
 2022-07-18T11:32:17.772Z,38.196,-117.8725,0,1.1,ml,9,144.46,0.088,0.3304,nn,nn00843158,2022-07-18T11:35:41.339Z,"29 km SE of Mina, Nevada",earthquake,,7.9,0.34,6,automatic,nn,nn
