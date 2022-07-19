@@ -205,5 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-18T08:06:26.360Z,37.5836667,-118.8635,2.97,0.03,md,8,248,0.02805,0.03,nc,nc73760171,2022-07-18T15:31:10.164Z,"12km ESE of Mammoth Lakes, CA",earthquake,0.84,0.65,0.233,7,reviewed,nc,nc
 2022-07-18T08:04:49.045Z,34.4697,45.5653,10,4.4,mb,61,52,0.658,0.41,us,us6000i3dq,2022-07-18T09:05:13.040Z,"27 km W of Sarpol-e Z̄ahāb, Iran",earthquake,5.6,1.9,0.092,34,reviewed,us,us
 2022-07-18T08:01:28.040Z,18.8475,-155.214166666667,7.38,2.8,md,33,264,,0.16,hv,hv73078767,2022-07-18T20:54:00.180Z,"45 km ESE of Naalehu, Hawaii",earthquake,0.45,0.43,0.126774814359674,14,reviewed,hv,hv
-2022-07-18T07:58:45.510Z,18.0465,-67.9495,7,3.75,md,30,185,0.5792,0.32,pr,pr2022199000,2022-07-18T14:05:06.040Z,"76 km SE of Punta Cana, Dominican Republic",earthquake,1.11,0.82,0.18,22,reviewed,pr,pr
-2022-07-18T07:54:26.940Z,38.7453346,-122.716835,1.19,0.86,md,10,132,0.01741,0.04,nc,nc73760166,2022-07-18T08:34:12.426Z,"4km SSW of Anderson Springs, CA",earthquake,0.41,0.48,0.03,4,automatic,nc,nc
