@@ -217,5 +217,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-19T14:56:40.530Z,38.7956657,-122.8151703,2.65,1.58,md,32,72,0.01196,0.03,nc,nc73760581,2022-07-19T17:30:10.167Z,"6km WNW of The Geysers, CA",earthquake,0.21,0.36,0.11,10,automatic,nc,nc
 2022-07-19T14:56:05.450Z,38.7955017,-122.81633,3.07,0.99,md,13,98,0.0126,0.02,nc,nc73760576,2022-07-19T16:27:19.820Z,"6km WNW of The Geysers, CA",earthquake,0.37,1.04,0.24,2,automatic,nc,nc
 2022-07-19T14:55:39.180Z,38.795166,-122.8154984,2.73,0.81,md,14,99,0.01187,0.03,nc,nc73760571,2022-07-19T16:33:10.859Z,"6km WNW of The Geysers, CA",earthquake,0.31,0.79,0.28,3,automatic,nc,nc
-2022-07-19T14:55:20.260Z,39.429,-110.2863333,-3.12,2.09,ml,17,169,0.03042,0.17,uu,uu60506282,2022-07-19T16:18:04.670Z,"16 km SSE of Sunnyside, Utah",earthquake,0.75,2.01,0.126,10,reviewed,uu,uu
+2022-07-19T14:55:20.260Z,39.429,-110.2863333,-3.12,2.09,ml,17,169,0.03042,0.17,uu,uu60506282,2022-07-19T16:18:04.670Z,"Utah",earthquake,0.75,2.01,0.126,10,reviewed,uu,uu
 2022-07-19T14:54:42.730Z,38.7953339,-122.8168335,2.83,0.89,md,8,100,0.01283,0.02,nc,nc73760566,2022-07-19T15:38:11.982Z,"6km WNW of The Geysers, CA",earthquake,0.48,1.52,0.87,3,automatic,nc,nc
