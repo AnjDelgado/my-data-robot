@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-07-22T21:46:29.208Z,60.0268,-153.314,122.8,1.8,ml,,,,0.29,ak,ak0229c2vh54,2022-07-22T21:48:34.100Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-07-22T21:45:47.823Z,18.3294,-68.257,168.9,4.3,ml,21,168,1.062,0.26,us,us7000hsu6,2022-07-22T21:56:35.040Z,"31 km SSE of Punta Cana, Dominican Republic",earthquake,13,5.9,0.054,45,reviewed,us,us
 2022-07-22T21:45:14.012Z,38.0696,-118.9164,8.4,1.4,ml,8,179.52,0.577,0.1153,nn,nn00843442,2022-07-22T21:49:32.755Z,"20 km E of Mono City, California",earthquake,,6.9,0.16,5,automatic,nn,nn
 2022-07-22T21:38:50.810Z,33.7125,-117.3391667,0.78,1.28,ml,32,78,0.05376,0.2,ci,ci40068095,2022-07-22T21:42:21.988Z,"5km NNW of Lake Elsinore, CA",earthquake,0.35,0.65,0.162,26,automatic,ci,ci
 2022-07-22T21:37:50.720Z,33.684,-116.746,15.3,1.44,ml,48,30,0.03793,0.16,ci,ci40068087,2022-07-22T21:48:49.480Z,"7km SSW of Idyllwild, CA",earthquake,0.19,0.34,0.173,26,automatic,ci,ci
@@ -53,7 +54,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-22T14:50:27.140Z,36.1941667,-117.8216667,6.41,1.94,ml,28,71,0.08101,0.17,ci,ci40067887,2022-07-22T21:49:53.750Z,"19km ESE of Olancha, CA",earthquake,0.24,0.48,0.242,13,reviewed,ci,ci
 2022-07-22T14:32:58.780Z,33.6953333,-116.7265,17.69,0.67,ml,22,93,0.01884,0.13,ci,ci40067871,2022-07-22T21:39:36.743Z,"5km S of Idyllwild, CA",earthquake,0.26,0.32,0.115,11,reviewed,ci,ci
 2022-07-22T14:31:28.758Z,62.7398,-148.9994,57.6,1.6,ml,,,,0.43,ak,ak0229bym84r,2022-07-22T14:33:22.916Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-07-22T14:29:57.950Z,36.8576667,-121.3073333,5.18,1.53,md,22,68,0.04514,0.07,nc,nc73761621,2022-07-22T21:00:16.464Z,"7km NE of Ridgemark, CA",earthquake,0.3,0.59,0.186,20,reviewed,nc,nc
+2022-07-22T14:29:57.950Z,36.8576667,-121.3073333,5.18,1.53,md,22,68,0.04514,0.07,nc,nc73761621,2022-07-22T21:55:15.791Z,"7km NE of Ridgemark, CA",earthquake,0.3,0.59,0.186,20,reviewed,nc,nc
 2022-07-22T14:23:08.430Z,44.7951667,-110.9501667,6.34,1.02,ml,13,150,0.05361,0.18,uu,uu60506702,2022-07-22T15:26:28.680Z,"19 km NE of West Yellowstone, Montana",earthquake,0.56,0.85,0.277,3,reviewed,uu,uu
 2022-07-22T14:19:50.690Z,33.2775,-115.9913333,3.47,1.28,ml,49,106,0.005275,0.2,ci,ci40067863,2022-07-22T21:33:39.130Z,"4km SW of Salton City, CA",earthquake,0.16,0.27,0.163,19,reviewed,ci,ci
 2022-07-22T14:13:12.090Z,19.191499710083,-155.482833862305,35.1800003051758,1.92,ml,50,77,,0.109999999,hv,hv73084357,2022-07-22T14:18:42.860Z,"1 km SSW of Pāhala, Hawaii",earthquake,0.52,0.810000002,4.53,7,automatic,hv,hv
