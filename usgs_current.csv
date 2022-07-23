@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-23T11:51:59.630Z,62.9679,-150.7441,98.6,2.5,ml,,,,0.59,ak,ak0229dkhmgq,2022-07-23T11:54:09.588Z,"52 km N of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-07-23T11:40:12.977Z,60.3679,-147.2025,37.3,1.7,ml,,,,0.53,ak,ak0229dkf61d,2022-07-23T11:42:17.605Z,"56 km NE of Chenega, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2022-07-23T11:38:45.704Z,-20.3009,-178.1782,611.66,4.5,mb,44,155,4.379,0.54,us,us7000hsyl,2022-07-23T11:57:42.040Z,"Fiji region",earthquake,14.8,10,0.062,78,reviewed,us,us
 2022-07-23T11:24:58.707Z,61.5444,-151.2644,78.4,1.1,ml,,,,0.99,ak,ak0229dkbu3y,2022-07-23T11:27:34.512Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-07-23T11:23:50.358Z,38.1691,-117.9714,1.4,0.8,ml,12,133.48,0.031,0.3073,nn,nn00843490,2022-07-23T11:27:35.053Z,"27 km SSE of Mina, Nevada",earthquake,,0.4,0.09,7,automatic,nn,nn
 2022-07-23T11:12:59.370Z,38.8344994,-122.8001633,2.25,0.97,md,15,57,0.008605,0.01,nc,nc73761946,2022-07-23T11:29:16.411Z,"7km WNW of Cobb, CA",earthquake,0.27,0.79,0.27,2,automatic,nc,nc
