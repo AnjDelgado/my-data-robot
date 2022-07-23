@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-23T19:54:40.490Z,38.836834,-122.8071671,2.06,1.08,md,23,53,0.01323,0.02,nc,nc73762086,2022-07-23T19:56:18.020Z,"8km WNW of Cobb, CA",earthquake,0.19,0.43,0.19,4,automatic,nc,nc
 2022-07-23T19:35:00.084Z,64.9826,-147.3812,5.4,1.6,ml,,,,0.83,ak,ak0229dp5jaw,2022-07-23T19:37:07.407Z,"11 km ENE of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-07-23T19:11:02.910Z,35.8533333,-117.6746667,8.62,0.75,ml,10,85,0.07306,0.11,ci,ci40068543,2022-07-23T19:14:34.786Z,"23km ESE of Little Lake, CA",earthquake,0.32,1.09,0.097,9,automatic,ci,ci
 2022-07-23T19:03:50.280Z,38.8303337,-122.8824997,2.32,0.37,md,11,136,0.007913,0.02,nc,nc73762076,2022-07-23T19:39:13.184Z,"12km ENE of Cloverdale, CA",earthquake,0.56,0.59,0.03,2,automatic,nc,nc
