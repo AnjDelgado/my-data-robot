@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-26T22:48:18.300Z,36.4803352,-121.0585022,3.99,2,md,19,69,0.06397,0.08,nc,nc73763161,2022-07-26T22:49:53.069Z,"10km SE of Pinnacles, CA",earthquake,0.3,1.14,0.16,17,automatic,nc,nc
+2022-07-26T22:45:00.100Z,33.8945,-116.821,20.98,0.71,ml,13,82,0.2016,0.24,ci,ci40070199,2022-07-26T22:48:28.907Z,"4km SW of Cabazon, CA",earthquake,0.59,1.48,0.115,20,automatic,ci,ci
 2022-07-26T22:41:21.855Z,60.9298,-150.8162,1.3,1.9,ml,,,,0.49,ak,ak0229ipl7kp,2022-07-26T22:43:11.236Z,"6 km W of Point Possession, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-07-26T22:06:35.968Z,60.8481,-150.9829,28.3,1.2,ml,,,,0.51,ak,ak0229ipdqlo,2022-07-26T22:08:15.677Z,"18 km WSW of Point Possession, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-07-26T21:59:42.640Z,33.6965,-116.7796667,14.42,0.48,ml,13,158,0.05653,0.09,ci,ci40070183,2022-07-26T22:36:20.359Z,"7km SW of Idyllwild, CA",earthquake,0.29,0.54,0.149,10,reviewed,ci,ci
@@ -205,5 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-25T23:31:42.890Z,35.8545,-117.6836667,9.1,0.72,ml,15,102,0.07998,0.12,ci,ci40069679,2022-07-26T18:34:57.679Z,"22km ESE of Little Lake, CA",earthquake,0.24,0.63,0.078,4,reviewed,ci,ci
 2022-07-25T23:23:19.310Z,35.0451667,-117.6698333,-0.79,1.78,ml,34,71,0.1126,0.12,ci,ci40069671,2022-07-26T13:59:35.037Z,"5km NNW of Boron, CA",quarry blast,0.27,31.61,0.167,28,reviewed,ci,ci
 2022-07-25T23:13:31.585Z,31.6695081,-104.3921656,7.288427734,2.5,ml,14,69,0.09259288127,0.2,tx,tx2022omic,2022-07-26T18:18:57.233Z,"56 km S of Whites City, New Mexico",earthquake,1.137017528,1.727442625,0,6,reviewed,tx,tx
-2022-07-25T22:46:41.214Z,61.3636,-150.6204,29.3,1.8,ml,,,,0.79,ak,ak0229h22z5l,2022-07-25T22:49:07.808Z,"20 km SSW of Susitna, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-07-25T22:46:14.290Z,39.4356667,-110.3076667,-1.82,1.36,ml,12,179,0.01777,0.12,uu,uu60507012,2022-07-26T14:47:23.550Z,"14 km SSE of Sunnyside, Utah",earthquake,0.98,0.7,0.016,2,reviewed,uu,uu
