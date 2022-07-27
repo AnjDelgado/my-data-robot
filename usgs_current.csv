@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-07-27T23:37:24.020Z,19.2368335723877,-155.380172729492,31.1599998474121,1.73000002,md,30,146,,0.119999997,hv,hv73089867,2022-07-27T23:40:28.700Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.89,1.59000003,1.73000002,4,automatic,hv,hv
 2022-07-27T23:35:36.520Z,38.8058319,-122.8079987,1.49,0.35,md,11,73,0.01015,0.02,nc,nc73763556,2022-07-27T23:45:10.572Z,"6km NW of The Geysers, CA",earthquake,0.35,1.05,,1,automatic,nc,nc
-2022-07-27T23:30:38.950Z,38.7736664,-122.7160034,1.85,1.52,md,21,88,0.0139,0.04,nc,nc73763551,2022-07-27T23:40:09.539Z,"2km W of Anderson Springs, CA",earthquake,0.28,0.37,0.09,7,automatic,nc,nc
+2022-07-27T23:30:38.950Z,38.7736664,-122.7160034,1.85,1.52,md,21,88,0.0139,0.04,nc,nc73763551,2022-07-27T23:48:15.593Z,"2km W of Anderson Springs, CA",earthquake,0.28,0.37,0.09,7,automatic,nc,nc
 2022-07-27T23:06:18.710Z,36.5681648,-121.0973358,9.97,1.07,md,6,153,0.04763,0.05,nc,nc73763536,2022-07-27T23:25:15.438Z,"6km NE of Pinnacles, CA",earthquake,0.95,1.79,0.18,5,automatic,nc,nc
 2022-07-27T23:00:52.305Z,64.9787,-147.3094,0.1,1.4,ml,,,,0.98,ak,ak0229kdh9n7,2022-07-27T23:04:10.194Z,"14 km E of Fox, Alaska",earthquake,,24.2,,,automatic,ak,ak
 2022-07-27T22:52:25.730Z,38.8186684,-122.8008347,3.47,0.84,md,11,78,0.008624,0.01,nc,nc73763531,2022-07-27T23:14:16.365Z,"6km NW of The Geysers, CA",earthquake,0.44,1.17,,1,automatic,nc,nc
@@ -35,7 +35,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-27T19:31:31.450Z,32.6151667,-116.9811667,-0.36,1.49,ml,25,125,0.04366,0.2,ci,ci40070735,2022-07-27T20:27:03.330Z,"6km ESE of Chula Vista, CA",quarry blast,0.57,31.61,0.141,11,reviewed,ci,ci
 2022-07-27T19:20:22.890Z,46.37816619873047,-122.32550048828125,-0.219999998807907,1.08000004,md,12,108,,0.189999998,uw,uw61857447,2022-07-27T19:22:51.230Z,"20 km S of Morton, Washington",earthquake,0.67,0.74000001,0.540000021,3,automatic,uw,uw
 2022-07-27T19:12:00.900Z,39.4375,-110.335,-1.95,1.55,md,5,138,0.01542,0.05,uu,uu60507177,2022-07-27T19:48:48.590Z,"13 km SSE of Sunnyside, Utah",earthquake,0.67,1.01,0.183,5,reviewed,uu,uu
-2022-07-27T18:58:57.621Z,-22.196,-68.4984,96.78,6.2,mww,105,31,0.796,0.93,us,us6000i5zi,2022-07-27T21:47:31.937Z,"52 km ENE of Calama, Chile",earthquake,6.3,3.5,0.037,69,reviewed,us,us
+2022-07-27T18:58:57.621Z,-22.196,-68.4984,96.78,6.2,mww,105,31,0.796,0.93,us,us6000i5zi,2022-07-27T23:49:29.814Z,"52 km ENE of Calama, Chile",earthquake,6.3,3.5,0.037,69,reviewed,us,us
 2022-07-27T18:57:33.250Z,34.0943333,-116.4023333,7.26,0.81,ml,19,104,0.027,0.11,ci,ci40070727,2022-07-27T20:18:53.450Z,"4km SE of Yucca Valley, CA",earthquake,0.23,0.29,0.067,6,reviewed,ci,ci
 2022-07-27T18:46:49.870Z,35.6246667,-117.4643333,13.14,0.26,ml,6,112,0.03812,0.17,ci,ci40070711,2022-07-27T20:13:04.481Z,"17km SSW of Searles Valley, CA",earthquake,0.74,1.37,0.112,2,reviewed,ci,ci
 2022-07-27T18:45:18.474Z,62.9316,-151.0966,32,1.1,ml,,,,1.2,ak,ak0229karo93,2022-07-27T18:48:12.792Z,"51 km NNW of Petersville, Alaska",earthquake,,2.1,,,automatic,ak,ak
@@ -60,7 +60,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-27T16:38:34.450Z,38.8353348,-122.8078308,2.21,1.03,md,19,51,0.01205,0.01,nc,nc73763431,2022-07-27T18:10:10.501Z,"8km WNW of Cobb, CA",earthquake,0.24,0.5,0.14,3,automatic,nc,nc
 2022-07-27T16:29:22.062Z,-24.0747,-66.8327,206.42,4.1,mb,25,110,1.666,0.71,us,us6000i5yb,2022-07-27T22:14:16.040Z,"54 km WNW of San Antonio de los Cobres, Argentina",earthquake,12.7,16.6,0.261,4,reviewed,us,us
 2022-07-27T16:20:42.036Z,59.8263,-153.3891,127.9,1.2,ml,,,,0.74,ak,ak0229k9fhyb,2022-07-27T16:23:47.537Z,"40 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-07-27T16:18:35.530Z,40.3211667,-124.1163333,28.76,1.45,md,14,74,0.01401,0.07,nc,nc73763416,2022-07-27T23:44:56.408Z,"14km E of Petrolia, CA",earthquake,0.67,0.82,0.152,7,reviewed,nc,nc
+2022-07-27T16:18:35.530Z,40.3211667,-124.1163333,28.76,1.45,md,14,74,0.01401,0.07,nc,nc73763416,2022-07-27T23:48:10.593Z,"14km E of Petrolia, CA",earthquake,0.67,0.82,0.152,7,reviewed,nc,nc
 2022-07-27T16:16:47.997Z,-23.5327,-179.6879,544.96,5.7,mww,103,69,6.134,1.01,us,us6000i5y9,2022-07-27T18:19:39.604Z,"south of the Fiji Islands",earthquake,11,4,0.068,21,reviewed,us,us
 2022-07-27T16:13:12.190Z,19.1580009460449,-155.361663818359,28.5400009155273,2.0999999,md,45,180,,0.119999997,hv,hv73089582,2022-07-27T16:18:43.790Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.69,1.09000003,0.870000005,19,automatic,hv,hv
 2022-07-27T16:10:07.590Z,37.6528333,-119.0288333,-1.28,0.83,md,7,83,0.00989,0.05,nc,nc73763411,2022-07-27T19:44:11.057Z,"5km WNW of Mammoth Lakes, CA",earthquake,0.35,0.61,0.455,5,reviewed,nc,nc
