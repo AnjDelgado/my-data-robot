@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-07-29T14:18:34.775Z,35.98134995,-97.9538269,4.222109318,1.82,ml,15,106.2055435,0.03877486661,0.275083619,ok,ok2022osym,2022-07-29T14:20:51.488Z,"3 km W of Dover, Oklahoma",earthquake,4.059380178,3.006562969,,13,automatic,ok,ok
+2022-07-29T14:25:29.520Z,60.0889,-151.6466,64.3,1.9,ml,,,,0.5,ak,ak0229njcdco,2022-07-29T14:27:21.170Z,"4 km NNE of Ninilchik, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2022-07-29T14:18:34.789Z,35.98616667,-97.9625,5.27,1.74,ml,72,27,0.03779258381,0.24,ok,ok2022osym,2022-07-29T14:28:59.477Z,"4 km W of Dover, Oklahoma",earthquake,,0.5,0.16,31,reviewed,ok,ok
 2022-07-29T13:59:09.250Z,38.8468323,-122.7816696,1.19,0.47,md,9,148,0.005898,0.02,nc,nc73764051,2022-07-29T14:26:13.518Z,"6km WNW of Cobb, CA",earthquake,0.39,0.5,0.4,2,automatic,nc,nc
 2022-07-29T13:58:49.640Z,38.8461685,-122.7808304,1.29,1.19,md,25,148,0.004966,0.03,nc,nc73764046,2022-07-29T14:15:13.456Z,"6km WNW of Cobb, CA",earthquake,0.21,0.3,0.12,5,automatic,nc,nc
 2022-07-29T13:55:31.883Z,32.20733643,-102.0635242,13.03438314,2,ml,11,69,0.09794299685,0.2,tx,tx2022osxs,2022-07-29T14:20:24.255Z,"western Texas",earthquake,1.523151334,2.211143372,0.1,7,reviewed,tx,tx
@@ -182,4 +183,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-28T14:53:17.734Z,62.0235,-151.2192,67.3,2.5,ml,,,,0.68,ak,ak0229lvyzy0,2022-07-29T13:22:32.040Z,"10 km ENE of Skwentna, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-07-28T14:42:48.950Z,19.3163333333333,-155.2485,3.91,2.43,ml,49,85,,0.13,hv,hv73090597,2022-07-29T01:30:40.780Z,"14 km S of Volcano, Hawaii",earthquake,0.21,1.06,0.182818359895206,22,reviewed,hv,hv
 2022-07-28T14:36:18.340Z,40.6906667,-111.5113333,11.98,1,ml,28,62,0.0635,0.19,uu,uu60507327,2022-07-28T15:48:48.970Z,"2 km E of Snyderville, Utah",earthquake,0.41,0.94,0.113,2,reviewed,uu,uu
-2022-07-28T14:33:49.180Z,39.4308333,-110.3103333,-1.1,1.16,ml,8,194,0.01327,0.09,uu,uu60507322,2022-07-28T15:56:37.130Z,"14 km SSE of Sunnyside, Utah",earthquake,0.93,0.43,0.085,4,reviewed,uu,uu
